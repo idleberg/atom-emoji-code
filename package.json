@@ -1,0 +1,34 @@
+{
+  "name": "emoji-code",
+  "version": "0.0.0",
+  "description": "Atom snippets to insert escape Emoji codes into HTML or CSS",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "unicode",
+    "emoji",
+    "snippets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idleberg/atom-emoji-code.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffeelint": "^0.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-jsonlint": "^1.1.1",
+    "gulp-recess": "^1.2.0",
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "test": "gulp lint"
+  }
+}
