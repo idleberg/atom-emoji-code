@@ -1,4 +1,4 @@
-# atom-emoji-code
+# emoji-code
 
 [![apm](https://img.shields.io/apm/l/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
 [![apm](https://img.shields.io/apm/v/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
