@@ -16,7 +16,7 @@ Atom snippets to insert escaped Emoji code into HTML and CSS.
 
 ## Usage
 
-All emojis are prefixed with `ji-`, following the string of the official [Unicode terminology](unicode.org/emoji/charts/full-emoji-list.html).
+All emojis are prefixed with `ji`, following the string of the official [Unicode terminology](unicode.org/emoji/charts/full-emoji-list.html).
 
 **Examples:**
 
