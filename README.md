@@ -16,10 +16,12 @@ Atom snippets to insert escaped Emoji code into HTML and CSS.
 
 **Examples:**
 
-Let's insert the 😄 emoji into your code
+Let's say, you want to insert the 😄 emoji
 
 * HTML: `emoji:grinning-face` becomes `&#x1F600;`
 * CSS: `emoji:grinning-face` becomes `content: '\1F600';`
+
+Keep in mind that Atom supports fuzzy completion, hence you can abbreviate all commands to your preference.
 
 ## Installation
 
