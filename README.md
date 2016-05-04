@@ -10,7 +10,6 @@
 
 Atom snippets to insert escaped Emoji code into HTML and CSS.
 
-
 ![Screenshot](https://raw.github.com/idleberg/atom-emoji-code/master/screenshot.png)
 
 **Examples:**
