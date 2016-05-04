@@ -14,14 +14,18 @@ Atom snippets to insert escaped Emoji code into HTML and CSS.
 
 *Screenshot of completions in Atom with [one-light-ui](https://github.com/atom/one-light-ui)*
 
+## Usage
+
+All emojis are prefixed with `ji-`, following the string of the official [Unicode terminology](unicode.org/emoji/charts/full-emoji-list.html).
+
 **Examples:**
 
 Let's say, you want to insert the 😄 emoji
 
-* HTML: `emoji:grinning-face` becomes `&#x1F600;`
-* CSS: `emoji:grinning-face` becomes `content: '\1F600';`
+* HTML: `ji:grinning-face` becomes `&#x1F600;`
+* CSS: `ji:grinning-face` becomes `content: '\1F600';`
 
-Keep in mind that Atom supports fuzzy completion, hence you can abbreviate all commands to your preference.
+Keep in mind that Atom supports fuzzy completion, inviting you to use abbreviation of your preference.
 
 ## Installation
 

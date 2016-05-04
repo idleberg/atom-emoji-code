@@ -1,3040 +1,3040 @@
 ".source.css,.source.sass":
   "😀":
     body: "content: '\\\\1F600';"
-    prefix: "emoji:grinning-face"
+    prefix: "ji:grinning-face"
   "😁":
     body: "content: '\\\\1F601';"
-    prefix: "emoji:grinning-face-with-smiling-eyes"
+    prefix: "ji:grinning-face-with-smiling-eyes"
   "😂":
     body: "content: '\\\\1F602';"
-    prefix: "emoji:face-with-tears-of-joy"
+    prefix: "ji:face-with-tears-of-joy"
   "😃":
     body: "content: '\\\\1F603';"
-    prefix: "emoji:smiling-face-with-open-mouth"
+    prefix: "ji:smiling-face-with-open-mouth"
   "😄":
     body: "content: '\\\\1F604';"
-    prefix: "emoji:smiling-face-with-open-mouth-and-smiling-eyes"
+    prefix: "ji:smiling-face-with-open-mouth-and-smiling-eyes"
   "😅":
     body: "content: '\\\\1F605';"
-    prefix: "emoji:smiling-face-with-open-mouth-and-cold-sweat"
+    prefix: "ji:smiling-face-with-open-mouth-and-cold-sweat"
   "😆":
     body: "content: '\\\\1F606';"
-    prefix: "emoji:smiling-face-with-open-mouth-and-tightly-closed-eyes"
+    prefix: "ji:smiling-face-with-open-mouth-and-tightly-closed-eyes"
   "😉":
     body: "content: '\\\\1F609';"
-    prefix: "emoji:winking-face"
+    prefix: "ji:winking-face"
   "😊":
     body: "content: '\\\\1F60A';"
-    prefix: "emoji:smiling-face-with-smiling-eyes"
+    prefix: "ji:smiling-face-with-smiling-eyes"
   "😋":
     body: "content: '\\\\1F60B';"
-    prefix: "emoji:face-savouring-delicious-food"
+    prefix: "ji:face-savouring-delicious-food"
   "😎":
     body: "content: '\\\\1F60E';"
-    prefix: "emoji:smiling-face-with-sunglasses"
+    prefix: "ji:smiling-face-with-sunglasses"
   "😍":
     body: "content: '\\\\1F60D';"
-    prefix: "emoji:smiling-face-with-heart-shaped-eyes"
+    prefix: "ji:smiling-face-with-heart-shaped-eyes"
   "😘":
     body: "content: '\\\\1F618';"
-    prefix: "emoji:face-throwing-a-kiss"
+    prefix: "ji:face-throwing-a-kiss"
   "😗":
     body: "content: '\\\\1F617';"
-    prefix: "emoji:kissing-face"
+    prefix: "ji:kissing-face"
   "😙":
     body: "content: '\\\\1F619';"
-    prefix: "emoji:kissing-face-with-smiling-eyes"
+    prefix: "ji:kissing-face-with-smiling-eyes"
   "😚":
     body: "content: '\\\\1F61A';"
-    prefix: "emoji:kissing-face-with-closed-eyes"
+    prefix: "ji:kissing-face-with-closed-eyes"
   "☺":
     body: "content: '\\\\263A';"
-    prefix: "emoji:white-smiling-face"
+    prefix: "ji:white-smiling-face"
   "🙂":
     body: "content: '\\\\1F642';"
-    prefix: "emoji:slightly-smiling-face"
+    prefix: "ji:slightly-smiling-face"
   "🤗":
     body: "content: '\\\\1F917';"
-    prefix: "emoji:hugging-face"
+    prefix: "ji:hugging-face"
   "😇":
     body: "content: '\\\\1F607';"
-    prefix: "emoji:smiling-face-with-halo"
+    prefix: "ji:smiling-face-with-halo"
   "🤓":
     body: "content: '\\\\1F913';"
-    prefix: "emoji:nerd-face"
+    prefix: "ji:nerd-face"
   "🤔":
     body: "content: '\\\\1F914';"
-    prefix: "emoji:thinking-face"
+    prefix: "ji:thinking-face"
   "😐":
     body: "content: '\\\\1F610';"
-    prefix: "emoji:neutral-face"
+    prefix: "ji:neutral-face"
   "😑":
     body: "content: '\\\\1F611';"
-    prefix: "emoji:expressionless-face"
+    prefix: "ji:expressionless-face"
   "😶":
     body: "content: '\\\\1F636';"
-    prefix: "emoji:face-without-mouth"
+    prefix: "ji:face-without-mouth"
   "🙄":
     body: "content: '\\\\1F644';"
-    prefix: "emoji:face-with-rolling-eyes"
+    prefix: "ji:face-with-rolling-eyes"
   "😏":
     body: "content: '\\\\1F60F';"
-    prefix: "emoji:smirking-face"
+    prefix: "ji:smirking-face"
   "😣":
     body: "content: '\\\\1F623';"
-    prefix: "emoji:persevering-face"
+    prefix: "ji:persevering-face"
   "😥":
     body: "content: '\\\\1F625';"
-    prefix: "emoji:disappointed-but-relieved-face"
+    prefix: "ji:disappointed-but-relieved-face"
   "😮":
     body: "content: '\\\\1F62E';"
-    prefix: "emoji:face-with-open-mouth"
+    prefix: "ji:face-with-open-mouth"
   "🤐":
     body: "content: '\\\\1F910';"
-    prefix: "emoji:zipper-mouth-face"
+    prefix: "ji:zipper-mouth-face"
   "😯":
     body: "content: '\\\\1F62F';"
-    prefix: "emoji:hushed-face"
+    prefix: "ji:hushed-face"
   "😪":
     body: "content: '\\\\1F62A';"
-    prefix: "emoji:sleepy-face"
+    prefix: "ji:sleepy-face"
   "😫":
     body: "content: '\\\\1F62B';"
-    prefix: "emoji:tired-face"
+    prefix: "ji:tired-face"
   "😴":
     body: "content: '\\\\1F634';"
-    prefix: "emoji:sleeping-face"
+    prefix: "ji:sleeping-face"
   "😌":
     body: "content: '\\\\1F60C';"
-    prefix: "emoji:relieved-face"
+    prefix: "ji:relieved-face"
   "😛":
     body: "content: '\\\\1F61B';"
-    prefix: "emoji:face-with-stuck-out-tongue"
+    prefix: "ji:face-with-stuck-out-tongue"
   "😜":
     body: "content: '\\\\1F61C';"
-    prefix: "emoji:face-with-stuck-out-tongue-and-winking-eye"
+    prefix: "ji:face-with-stuck-out-tongue-and-winking-eye"
   "😝":
     body: "content: '\\\\1F61D';"
-    prefix: "emoji:face-with-stuck-out-tongue-and-tightly-closed-eyes"
+    prefix: "ji:face-with-stuck-out-tongue-and-tightly-closed-eyes"
   "😒":
     body: "content: '\\\\1F612';"
-    prefix: "emoji:unamused-face"
+    prefix: "ji:unamused-face"
   "😓":
     body: "content: '\\\\1F613';"
-    prefix: "emoji:face-with-cold-sweat"
+    prefix: "ji:face-with-cold-sweat"
   "😔":
     body: "content: '\\\\1F614';"
-    prefix: "emoji:pensive-face"
+    prefix: "ji:pensive-face"
   "😕":
     body: "content: '\\\\1F615';"
-    prefix: "emoji:confused-face"
+    prefix: "ji:confused-face"
   "🙃":
     body: "content: '\\\\1F643';"
-    prefix: "emoji:upside-down-face"
+    prefix: "ji:upside-down-face"
   "🤑":
     body: "content: '\\\\1F911';"
-    prefix: "emoji:money-mouth-face"
+    prefix: "ji:money-mouth-face"
   "😲":
     body: "content: '\\\\1F632';"
-    prefix: "emoji:astonished-face"
+    prefix: "ji:astonished-face"
   "😷":
     body: "content: '\\\\1F637';"
-    prefix: "emoji:face-with-medical-mask"
+    prefix: "ji:face-with-medical-mask"
   "🤒":
     body: "content: '\\\\1F912';"
-    prefix: "emoji:face-with-thermometer"
+    prefix: "ji:face-with-thermometer"
   "🤕":
     body: "content: '\\\\1F915';"
-    prefix: "emoji:face-with-head-bandage"
+    prefix: "ji:face-with-head-bandage"
   "☹":
     body: "content: '\\\\2639';"
-    prefix: "emoji:white-frowning-face"
+    prefix: "ji:white-frowning-face"
   "🙁":
     body: "content: '\\\\1F641';"
-    prefix: "emoji:slightly-frowning-face"
+    prefix: "ji:slightly-frowning-face"
   "😖":
     body: "content: '\\\\1F616';"
-    prefix: "emoji:confounded-face"
+    prefix: "ji:confounded-face"
   "😞":
     body: "content: '\\\\1F61E';"
-    prefix: "emoji:disappointed-face"
+    prefix: "ji:disappointed-face"
   "😟":
     body: "content: '\\\\1F61F';"
-    prefix: "emoji:worried-face"
+    prefix: "ji:worried-face"
   "😤":
     body: "content: '\\\\1F624';"
-    prefix: "emoji:face-with-look-of-triumph"
+    prefix: "ji:face-with-look-of-triumph"
   "😢":
     body: "content: '\\\\1F622';"
-    prefix: "emoji:crying-face"
+    prefix: "ji:crying-face"
   "😭":
     body: "content: '\\\\1F62D';"
-    prefix: "emoji:loudly-crying-face"
+    prefix: "ji:loudly-crying-face"
   "😦":
     body: "content: '\\\\1F626';"
-    prefix: "emoji:frowning-face-with-open-mouth"
+    prefix: "ji:frowning-face-with-open-mouth"
   "😧":
     body: "content: '\\\\1F627';"
-    prefix: "emoji:anguished-face"
+    prefix: "ji:anguished-face"
   "😨":
     body: "content: '\\\\1F628';"
-    prefix: "emoji:fearful-face"
+    prefix: "ji:fearful-face"
   "😩":
     body: "content: '\\\\1F629';"
-    prefix: "emoji:weary-face"
+    prefix: "ji:weary-face"
   "😬":
     body: "content: '\\\\1F62C';"
-    prefix: "emoji:grimacing-face"
+    prefix: "ji:grimacing-face"
   "😰":
     body: "content: '\\\\1F630';"
-    prefix: "emoji:face-with-open-mouth-and-cold-sweat"
+    prefix: "ji:face-with-open-mouth-and-cold-sweat"
   "😱":
     body: "content: '\\\\1F631';"
-    prefix: "emoji:face-screaming-in-fear"
+    prefix: "ji:face-screaming-in-fear"
   "😳":
     body: "content: '\\\\1F633';"
-    prefix: "emoji:flushed-face"
+    prefix: "ji:flushed-face"
   "😵":
     body: "content: '\\\\1F635';"
-    prefix: "emoji:dizzy-face"
+    prefix: "ji:dizzy-face"
   "😡":
     body: "content: '\\\\1F621';"
-    prefix: "emoji:pouting-face"
+    prefix: "ji:pouting-face"
   "😠":
     body: "content: '\\\\1F620';"
-    prefix: "emoji:angry-face"
+    prefix: "ji:angry-face"
   "😈":
     body: "content: '\\\\1F608';"
-    prefix: "emoji:smiling-face-with-horns"
+    prefix: "ji:smiling-face-with-horns"
   "👿":
     body: "content: '\\\\1F47F';"
-    prefix: "emoji:imp"
+    prefix: "ji:imp"
   "👹":
     body: "content: '\\\\1F479';"
-    prefix: "emoji:japanese-ogre"
+    prefix: "ji:japanese-ogre"
   "👺":
     body: "content: '\\\\1F47A';"
-    prefix: "emoji:japanese-goblin"
+    prefix: "ji:japanese-goblin"
   "💀":
     body: "content: '\\\\1F480';"
-    prefix: "emoji:skull"
+    prefix: "ji:skull"
   "☠":
     body: "content: '\\\\2620';"
-    prefix: "emoji:skull-and-crossbones"
+    prefix: "ji:skull-and-crossbones"
   "👻":
     body: "content: '\\\\1F47B';"
-    prefix: "emoji:ghost"
+    prefix: "ji:ghost"
   "👽":
     body: "content: '\\\\1F47D';"
-    prefix: "emoji:extraterrestrial-alien"
+    prefix: "ji:extraterrestrial-alien"
   "👾":
     body: "content: '\\\\1F47E';"
-    prefix: "emoji:alien-monster"
+    prefix: "ji:alien-monster"
   "🤖":
     body: "content: '\\\\1F916';"
-    prefix: "emoji:robot-face"
+    prefix: "ji:robot-face"
   "💩":
     body: "content: '\\\\1F4A9';"
-    prefix: "emoji:pile-of-poo"
+    prefix: "ji:pile-of-poo"
   "😺":
     body: "content: '\\\\1F63A';"
-    prefix: "emoji:smiling-cat-face-with-open-mouth"
+    prefix: "ji:smiling-cat-face-with-open-mouth"
   "😸":
     body: "content: '\\\\1F638';"
-    prefix: "emoji:grinning-cat-face-with-smiling-eyes"
+    prefix: "ji:grinning-cat-face-with-smiling-eyes"
   "😹":
     body: "content: '\\\\1F639';"
-    prefix: "emoji:cat-face-with-tears-of-joy"
+    prefix: "ji:cat-face-with-tears-of-joy"
   "😻":
     body: "content: '\\\\1F63B';"
-    prefix: "emoji:smiling-cat-face-with-heart-shaped-eyes"
+    prefix: "ji:smiling-cat-face-with-heart-shaped-eyes"
   "😼":
     body: "content: '\\\\1F63C';"
-    prefix: "emoji:cat-face-with-wry-smile"
+    prefix: "ji:cat-face-with-wry-smile"
   "😽":
     body: "content: '\\\\1F63D';"
-    prefix: "emoji:kissing-cat-face-with-closed-eyes"
+    prefix: "ji:kissing-cat-face-with-closed-eyes"
   "🙀":
     body: "content: '\\\\1F640';"
-    prefix: "emoji:weary-cat-face"
+    prefix: "ji:weary-cat-face"
   "😿":
     body: "content: '\\\\1F63F';"
-    prefix: "emoji:crying-cat-face"
+    prefix: "ji:crying-cat-face"
   "😾":
     body: "content: '\\\\1F63E';"
-    prefix: "emoji:pouting-cat-face"
+    prefix: "ji:pouting-cat-face"
   "🙈":
     body: "content: '\\\\1F648';"
-    prefix: "emoji:see-no-evil-monkey"
+    prefix: "ji:see-no-evil-monkey"
   "🙉":
     body: "content: '\\\\1F649';"
-    prefix: "emoji:hear-no-evil-monkey"
+    prefix: "ji:hear-no-evil-monkey"
   "🙊":
     body: "content: '\\\\1F64A';"
-    prefix: "emoji:speak-no-evil-monkey"
+    prefix: "ji:speak-no-evil-monkey"
   "👦":
     body: "content: '\\\\1F466';"
-    prefix: "emoji:boy"
+    prefix: "ji:boy"
   "👧":
     body: "content: '\\\\1F467';"
-    prefix: "emoji:girl"
+    prefix: "ji:girl"
   "👨":
     body: "content: '\\\\1F468';"
-    prefix: "emoji:man"
+    prefix: "ji:man"
   "👩":
     body: "content: '\\\\1F469';"
-    prefix: "emoji:woman"
+    prefix: "ji:woman"
   "👴":
     body: "content: '\\\\1F474';"
-    prefix: "emoji:older-man"
+    prefix: "ji:older-man"
   "👵":
     body: "content: '\\\\1F475';"
-    prefix: "emoji:older-woman"
+    prefix: "ji:older-woman"
   "👶":
     body: "content: '\\\\1F476';"
-    prefix: "emoji:baby"
+    prefix: "ji:baby"
   "👱":
     body: "content: '\\\\1F471';"
-    prefix: "emoji:person-with-blond-hair"
+    prefix: "ji:person-with-blond-hair"
   "👮":
     body: "content: '\\\\1F46E';"
-    prefix: "emoji:police-officer"
+    prefix: "ji:police-officer"
   "👲":
     body: "content: '\\\\1F472';"
-    prefix: "emoji:man-with-gua-pi-mao"
+    prefix: "ji:man-with-gua-pi-mao"
   "👳":
     body: "content: '\\\\1F473';"
-    prefix: "emoji:man-with-turban"
+    prefix: "ji:man-with-turban"
   "👷":
     body: "content: '\\\\1F477';"
-    prefix: "emoji:construction-worker"
+    prefix: "ji:construction-worker"
   "⛑":
     body: "content: '\\\\26D1';"
-    prefix: "emoji:helmet-with-white-cross"
+    prefix: "ji:helmet-with-white-cross"
   "👸":
     body: "content: '\\\\1F478';"
-    prefix: "emoji:princess"
+    prefix: "ji:princess"
   "💂":
     body: "content: '\\\\1F482';"
-    prefix: "emoji:guardsman"
+    prefix: "ji:guardsman"
   "🕵":
     body: "content: '\\\\1F575';"
-    prefix: "emoji:sleuth-or-spy"
+    prefix: "ji:sleuth-or-spy"
   "🎅":
     body: "content: '\\\\1F385';"
-    prefix: "emoji:father-christmas"
+    prefix: "ji:father-christmas"
   "👰":
     body: "content: '\\\\1F470';"
-    prefix: "emoji:bride-with-veil"
+    prefix: "ji:bride-with-veil"
   "👼":
     body: "content: '\\\\1F47C';"
-    prefix: "emoji:baby-angel"
+    prefix: "ji:baby-angel"
   "💆":
     body: "content: '\\\\1F486';"
-    prefix: "emoji:face-massage"
+    prefix: "ji:face-massage"
   "💇":
     body: "content: '\\\\1F487';"
-    prefix: "emoji:haircut"
+    prefix: "ji:haircut"
   "🙍":
     body: "content: '\\\\1F64D';"
-    prefix: "emoji:person-frowning"
+    prefix: "ji:person-frowning"
   "🙎":
     body: "content: '\\\\1F64E';"
-    prefix: "emoji:person-with-pouting-face"
+    prefix: "ji:person-with-pouting-face"
   "🙅":
     body: "content: '\\\\1F645';"
-    prefix: "emoji:face-with-no-good-gesture"
+    prefix: "ji:face-with-no-good-gesture"
   "🙆":
     body: "content: '\\\\1F646';"
-    prefix: "emoji:face-with-ok-gesture"
+    prefix: "ji:face-with-ok-gesture"
   "💁":
     body: "content: '\\\\1F481';"
-    prefix: "emoji:information-desk-person"
+    prefix: "ji:information-desk-person"
   "🙋":
     body: "content: '\\\\1F64B';"
-    prefix: "emoji:happy-person-raising-one-hand"
+    prefix: "ji:happy-person-raising-one-hand"
   "🙇":
     body: "content: '\\\\1F647';"
-    prefix: "emoji:person-bowing-deeply"
+    prefix: "ji:person-bowing-deeply"
   "🙌":
     body: "content: '\\\\1F64C';"
-    prefix: "emoji:person-raising-both-hands-in-celebration"
+    prefix: "ji:person-raising-both-hands-in-celebration"
   "🙏":
     body: "content: '\\\\1F64F';"
-    prefix: "emoji:person-with-folded-hands"
+    prefix: "ji:person-with-folded-hands"
   "🗣":
     body: "content: '\\\\1F5E3';"
-    prefix: "emoji:speaking-head-in-silhouette"
+    prefix: "ji:speaking-head-in-silhouette"
   "👤":
     body: "content: '\\\\1F464';"
-    prefix: "emoji:bust-in-silhouette"
+    prefix: "ji:bust-in-silhouette"
   "👥":
     body: "content: '\\\\1F465';"
-    prefix: "emoji:busts-in-silhouette"
+    prefix: "ji:busts-in-silhouette"
   "🚶":
     body: "content: '\\\\1F6B6';"
-    prefix: "emoji:pedestrian"
+    prefix: "ji:pedestrian"
   "🏃":
     body: "content: '\\\\1F3C3';"
-    prefix: "emoji:runner"
+    prefix: "ji:runner"
   "👯":
     body: "content: '\\\\1F46F';"
-    prefix: "emoji:woman-with-bunny-ears"
+    prefix: "ji:woman-with-bunny-ears"
   "💃":
     body: "content: '\\\\1F483';"
-    prefix: "emoji:dancer"
+    prefix: "ji:dancer"
   "🕴":
     body: "content: '\\\\1F574';"
-    prefix: "emoji:man-in-business-suit-levitating"
+    prefix: "ji:man-in-business-suit-levitating"
   "👫":
     body: "content: '\\\\1F46B';"
-    prefix: "emoji:man-and-woman-holding-hands"
+    prefix: "ji:man-and-woman-holding-hands"
   "👬":
     body: "content: '\\\\1F46C';"
-    prefix: "emoji:two-men-holding-hands"
+    prefix: "ji:two-men-holding-hands"
   "👭":
     body: "content: '\\\\1F46D';"
-    prefix: "emoji:two-women-holding-hands"
+    prefix: "ji:two-women-holding-hands"
   "💏":
     body: "content: '\\\\1F48F';"
-    prefix: "emoji:kiss"
+    prefix: "ji:kiss"
   "💑":
     body: "content: '\\\\1F491';"
-    prefix: "emoji:couple-with-heart"
+    prefix: "ji:couple-with-heart"
   "👪":
     body: "content: '\\\\1F46A';"
-    prefix: "emoji:family"
+    prefix: "ji:family"
   "🏻":
     body: "content: '\\\\1F3FB';"
-    prefix: "emoji:emoji-modifier-fitzpatrick-type-1-2"
+    prefix: "ji:emoji-modifier-fitzpatrick-type-1-2"
   "🏼":
     body: "content: '\\\\1F3FC';"
-    prefix: "emoji:emoji-modifier-fitzpatrick-type-3"
+    prefix: "ji:emoji-modifier-fitzpatrick-type-3"
   "🏽":
     body: "content: '\\\\1F3FD';"
-    prefix: "emoji:emoji-modifier-fitzpatrick-type-4"
+    prefix: "ji:emoji-modifier-fitzpatrick-type-4"
   "🏾":
     body: "content: '\\\\1F3FE';"
-    prefix: "emoji:emoji-modifier-fitzpatrick-type-5"
+    prefix: "ji:emoji-modifier-fitzpatrick-type-5"
   "🏿":
     body: "content: '\\\\1F3FF';"
-    prefix: "emoji:emoji-modifier-fitzpatrick-type-6"
+    prefix: "ji:emoji-modifier-fitzpatrick-type-6"
   "💪":
     body: "content: '\\\\1F4AA';"
-    prefix: "emoji:flexed-biceps"
+    prefix: "ji:flexed-biceps"
   "👈":
     body: "content: '\\\\1F448';"
-    prefix: "emoji:white-left-pointing-backhand-index"
+    prefix: "ji:white-left-pointing-backhand-index"
   "👉":
     body: "content: '\\\\1F449';"
-    prefix: "emoji:white-right-pointing-backhand-index"
+    prefix: "ji:white-right-pointing-backhand-index"
   "☝":
     body: "content: '\\\\261D';"
-    prefix: "emoji:white-up-pointing-index"
+    prefix: "ji:white-up-pointing-index"
   "👆":
     body: "content: '\\\\1F446';"
-    prefix: "emoji:white-up-pointing-backhand-index"
+    prefix: "ji:white-up-pointing-backhand-index"
   "🖕":
     body: "content: '\\\\1F595';"
-    prefix: "emoji:reversed-hand-with-middle-finger-extended"
+    prefix: "ji:reversed-hand-with-middle-finger-extended"
   "👇":
     body: "content: '\\\\1F447';"
-    prefix: "emoji:white-down-pointing-backhand-index"
+    prefix: "ji:white-down-pointing-backhand-index"
   "✌":
     body: "content: '\\\\270C';"
-    prefix: "emoji:victory-hand"
+    prefix: "ji:victory-hand"
   "🖖":
     body: "content: '\\\\1F596';"
-    prefix: "emoji:raised-hand-with-part-between-middle-and-ring-fingers"
+    prefix: "ji:raised-hand-with-part-between-middle-and-ring-fingers"
   "🤘":
     body: "content: '\\\\1F918';"
-    prefix: "emoji:sign-of-the-horns"
+    prefix: "ji:sign-of-the-horns"
   "🖐":
     body: "content: '\\\\1F590';"
-    prefix: "emoji:raised-hand-with-fingers-splayed"
+    prefix: "ji:raised-hand-with-fingers-splayed"
   "✋":
     body: "content: '\\\\270B';"
-    prefix: "emoji:raised-hand"
+    prefix: "ji:raised-hand"
   "👌":
     body: "content: '\\\\1F44C';"
-    prefix: "emoji:ok-hand-sign"
+    prefix: "ji:ok-hand-sign"
   "👍":
     body: "content: '\\\\1F44D';"
-    prefix: "emoji:thumbs-up-sign"
+    prefix: "ji:thumbs-up-sign"
   "👎":
     body: "content: '\\\\1F44E';"
-    prefix: "emoji:thumbs-down-sign"
+    prefix: "ji:thumbs-down-sign"
   "✊":
     body: "content: '\\\\270A';"
-    prefix: "emoji:raised-fist"
+    prefix: "ji:raised-fist"
   "👊":
     body: "content: '\\\\1F44A';"
-    prefix: "emoji:fisted-hand-sign"
+    prefix: "ji:fisted-hand-sign"
   "👋":
     body: "content: '\\\\1F44B';"
-    prefix: "emoji:waving-hand-sign"
+    prefix: "ji:waving-hand-sign"
   "👏":
     body: "content: '\\\\1F44F';"
-    prefix: "emoji:clapping-hands-sign"
+    prefix: "ji:clapping-hands-sign"
   "👐":
     body: "content: '\\\\1F450';"
-    prefix: "emoji:open-hands-sign"
+    prefix: "ji:open-hands-sign"
   "✍":
     body: "content: '\\\\270D';"
-    prefix: "emoji:writing-hand"
+    prefix: "ji:writing-hand"
   "💅":
     body: "content: '\\\\1F485';"
-    prefix: "emoji:nail-polish"
+    prefix: "ji:nail-polish"
   "👂":
     body: "content: '\\\\1F442';"
-    prefix: "emoji:ear"
+    prefix: "ji:ear"
   "👃":
     body: "content: '\\\\1F443';"
-    prefix: "emoji:nose"
+    prefix: "ji:nose"
   "👣":
     body: "content: '\\\\1F463';"
-    prefix: "emoji:footprints"
+    prefix: "ji:footprints"
   "👀":
     body: "content: '\\\\1F440';"
-    prefix: "emoji:eyes"
+    prefix: "ji:eyes"
   "👁":
     body: "content: '\\\\1F441';"
-    prefix: "emoji:eye"
+    prefix: "ji:eye"
   "👅":
     body: "content: '\\\\1F445';"
-    prefix: "emoji:tongue"
+    prefix: "ji:tongue"
   "👄":
     body: "content: '\\\\1F444';"
-    prefix: "emoji:mouth"
+    prefix: "ji:mouth"
   "💋":
     body: "content: '\\\\1F48B';"
-    prefix: "emoji:kiss-mark"
+    prefix: "ji:kiss-mark"
   "💘":
     body: "content: '\\\\1F498';"
-    prefix: "emoji:heart-with-arrow"
+    prefix: "ji:heart-with-arrow"
   "❤":
     body: "content: '\\\\2764';"
-    prefix: "emoji:heavy-black-heart"
+    prefix: "ji:heavy-black-heart"
   "💓":
     body: "content: '\\\\1F493';"
-    prefix: "emoji:beating-heart"
+    prefix: "ji:beating-heart"
   "💔":
     body: "content: '\\\\1F494';"
-    prefix: "emoji:broken-heart"
+    prefix: "ji:broken-heart"
   "💕":
     body: "content: '\\\\1F495';"
-    prefix: "emoji:two-hearts"
+    prefix: "ji:two-hearts"
   "💖":
     body: "content: '\\\\1F496';"
-    prefix: "emoji:sparkling-heart"
+    prefix: "ji:sparkling-heart"
   "💗":
     body: "content: '\\\\1F497';"
-    prefix: "emoji:growing-heart"
+    prefix: "ji:growing-heart"
   "💙":
     body: "content: '\\\\1F499';"
-    prefix: "emoji:blue-heart"
+    prefix: "ji:blue-heart"
   "💚":
     body: "content: '\\\\1F49A';"
-    prefix: "emoji:green-heart"
+    prefix: "ji:green-heart"
   "💛":
     body: "content: '\\\\1F49B';"
-    prefix: "emoji:yellow-heart"
+    prefix: "ji:yellow-heart"
   "💜":
     body: "content: '\\\\1F49C';"
-    prefix: "emoji:purple-heart"
+    prefix: "ji:purple-heart"
   "💝":
     body: "content: '\\\\1F49D';"
-    prefix: "emoji:heart-with-ribbon"
+    prefix: "ji:heart-with-ribbon"
   "💞":
     body: "content: '\\\\1F49E';"
-    prefix: "emoji:revolving-hearts"
+    prefix: "ji:revolving-hearts"
   "💟":
     body: "content: '\\\\1F49F';"
-    prefix: "emoji:heart-decoration"
+    prefix: "ji:heart-decoration"
   "❣":
     body: "content: '\\\\2763';"
-    prefix: "emoji:heavy-heart-exclamation-mark-ornament"
+    prefix: "ji:heavy-heart-exclamation-mark-ornament"
   "💌":
     body: "content: '\\\\1F48C';"
-    prefix: "emoji:love-letter"
+    prefix: "ji:love-letter"
   "💤":
     body: "content: '\\\\1F4A4';"
-    prefix: "emoji:sleeping-symbol"
+    prefix: "ji:sleeping-symbol"
   "💢":
     body: "content: '\\\\1F4A2';"
-    prefix: "emoji:anger-symbol"
+    prefix: "ji:anger-symbol"
   "💣":
     body: "content: '\\\\1F4A3';"
-    prefix: "emoji:bomb"
+    prefix: "ji:bomb"
   "💥":
     body: "content: '\\\\1F4A5';"
-    prefix: "emoji:collision-symbol"
+    prefix: "ji:collision-symbol"
   "💦":
     body: "content: '\\\\1F4A6';"
-    prefix: "emoji:splashing-sweat-symbol"
+    prefix: "ji:splashing-sweat-symbol"
   "💨":
     body: "content: '\\\\1F4A8';"
-    prefix: "emoji:dash-symbol"
+    prefix: "ji:dash-symbol"
   "💫":
     body: "content: '\\\\1F4AB';"
-    prefix: "emoji:dizzy-symbol"
+    prefix: "ji:dizzy-symbol"
   "💬":
     body: "content: '\\\\1F4AC';"
-    prefix: "emoji:speech-balloon"
+    prefix: "ji:speech-balloon"
   "🗨":
     body: "content: '\\\\1F5E8';"
-    prefix: "emoji:left-speech-bubble"
+    prefix: "ji:left-speech-bubble"
   "🗯":
     body: "content: '\\\\1F5EF';"
-    prefix: "emoji:right-anger-bubble"
+    prefix: "ji:right-anger-bubble"
   "💭":
     body: "content: '\\\\1F4AD';"
-    prefix: "emoji:thought-balloon"
+    prefix: "ji:thought-balloon"
   "🕳":
     body: "content: '\\\\1F573';"
-    prefix: "emoji:hole"
+    prefix: "ji:hole"
   "👓":
     body: "content: '\\\\1F453';"
-    prefix: "emoji:eyeglasses"
+    prefix: "ji:eyeglasses"
   "🕶":
     body: "content: '\\\\1F576';"
-    prefix: "emoji:dark-sunglasses"
+    prefix: "ji:dark-sunglasses"
   "👔":
     body: "content: '\\\\1F454';"
-    prefix: "emoji:necktie"
+    prefix: "ji:necktie"
   "👕":
     body: "content: '\\\\1F455';"
-    prefix: "emoji:t-shirt"
+    prefix: "ji:t-shirt"
   "👖":
     body: "content: '\\\\1F456';"
-    prefix: "emoji:jeans"
+    prefix: "ji:jeans"
   "👗":
     body: "content: '\\\\1F457';"
-    prefix: "emoji:dress"
+    prefix: "ji:dress"
   "👘":
     body: "content: '\\\\1F458';"
-    prefix: "emoji:kimono"
+    prefix: "ji:kimono"
   "👙":
     body: "content: '\\\\1F459';"
-    prefix: "emoji:bikini"
+    prefix: "ji:bikini"
   "👚":
     body: "content: '\\\\1F45A';"
-    prefix: "emoji:womans-clothes"
+    prefix: "ji:womans-clothes"
   "👛":
     body: "content: '\\\\1F45B';"
-    prefix: "emoji:purse"
+    prefix: "ji:purse"
   "👜":
     body: "content: '\\\\1F45C';"
-    prefix: "emoji:handbag"
+    prefix: "ji:handbag"
   "👝":
     body: "content: '\\\\1F45D';"
-    prefix: "emoji:pouch"
+    prefix: "ji:pouch"
   "🛍":
     body: "content: '\\\\1F6CD';"
-    prefix: "emoji:shopping-bags"
+    prefix: "ji:shopping-bags"
   "🎒":
     body: "content: '\\\\1F392';"
-    prefix: "emoji:school-satchel"
+    prefix: "ji:school-satchel"
   "👞":
     body: "content: '\\\\1F45E';"
-    prefix: "emoji:mans-shoe"
+    prefix: "ji:mans-shoe"
   "👟":
     body: "content: '\\\\1F45F';"
-    prefix: "emoji:athletic-shoe"
+    prefix: "ji:athletic-shoe"
   "👠":
     body: "content: '\\\\1F460';"
-    prefix: "emoji:high-heeled-shoe"
+    prefix: "ji:high-heeled-shoe"
   "👡":
     body: "content: '\\\\1F461';"
-    prefix: "emoji:womans-sandal"
+    prefix: "ji:womans-sandal"
   "👢":
     body: "content: '\\\\1F462';"
-    prefix: "emoji:womans-boots"
+    prefix: "ji:womans-boots"
   "👑":
     body: "content: '\\\\1F451';"
-    prefix: "emoji:crown"
+    prefix: "ji:crown"
   "👒":
     body: "content: '\\\\1F452';"
-    prefix: "emoji:womans-hat"
+    prefix: "ji:womans-hat"
   "🎩":
     body: "content: '\\\\1F3A9';"
-    prefix: "emoji:top-hat"
+    prefix: "ji:top-hat"
   "🎓":
     body: "content: '\\\\1F393';"
-    prefix: "emoji:graduation-cap"
+    prefix: "ji:graduation-cap"
   "📿":
     body: "content: '\\\\1F4FF';"
-    prefix: "emoji:prayer-beads"
+    prefix: "ji:prayer-beads"
   "💄":
     body: "content: '\\\\1F484';"
-    prefix: "emoji:lipstick"
+    prefix: "ji:lipstick"
   "💍":
     body: "content: '\\\\1F48D';"
-    prefix: "emoji:ring"
+    prefix: "ji:ring"
   "💎":
     body: "content: '\\\\1F48E';"
-    prefix: "emoji:gem-stone"
+    prefix: "ji:gem-stone"
   "🐵":
     body: "content: '\\\\1F435';"
-    prefix: "emoji:monkey-face"
+    prefix: "ji:monkey-face"
   "🐒":
     body: "content: '\\\\1F412';"
-    prefix: "emoji:monkey"
+    prefix: "ji:monkey"
   "🐶":
     body: "content: '\\\\1F436';"
-    prefix: "emoji:dog-face"
+    prefix: "ji:dog-face"
   "🐕":
     body: "content: '\\\\1F415';"
-    prefix: "emoji:dog"
+    prefix: "ji:dog"
   "🐩":
     body: "content: '\\\\1F429';"
-    prefix: "emoji:poodle"
+    prefix: "ji:poodle"
   "🐺":
     body: "content: '\\\\1F43A';"
-    prefix: "emoji:wolf-face"
+    prefix: "ji:wolf-face"
   "🐱":
     body: "content: '\\\\1F431';"
-    prefix: "emoji:cat-face"
+    prefix: "ji:cat-face"
   "🐈":
     body: "content: '\\\\1F408';"
-    prefix: "emoji:cat"
+    prefix: "ji:cat"
   "🦁":
     body: "content: '\\\\1F981';"
-    prefix: "emoji:lion-face"
+    prefix: "ji:lion-face"
   "🐯":
     body: "content: '\\\\1F42F';"
-    prefix: "emoji:tiger-face"
+    prefix: "ji:tiger-face"
   "🐅":
     body: "content: '\\\\1F405';"
-    prefix: "emoji:tiger"
+    prefix: "ji:tiger"
   "🐆":
     body: "content: '\\\\1F406';"
-    prefix: "emoji:leopard"
+    prefix: "ji:leopard"
   "🐴":
     body: "content: '\\\\1F434';"
-    prefix: "emoji:horse-face"
+    prefix: "ji:horse-face"
   "🐎":
     body: "content: '\\\\1F40E';"
-    prefix: "emoji:horse"
+    prefix: "ji:horse"
   "🦄":
     body: "content: '\\\\1F984';"
-    prefix: "emoji:unicorn-face"
+    prefix: "ji:unicorn-face"
   "🐮":
     body: "content: '\\\\1F42E';"
-    prefix: "emoji:cow-face"
+    prefix: "ji:cow-face"
   "🐂":
     body: "content: '\\\\1F402';"
-    prefix: "emoji:ox"
+    prefix: "ji:ox"
   "🐃":
     body: "content: '\\\\1F403';"
-    prefix: "emoji:water-buffalo"
+    prefix: "ji:water-buffalo"
   "🐄":
     body: "content: '\\\\1F404';"
-    prefix: "emoji:cow"
+    prefix: "ji:cow"
   "🐷":
     body: "content: '\\\\1F437';"
-    prefix: "emoji:pig-face"
+    prefix: "ji:pig-face"
   "🐖":
     body: "content: '\\\\1F416';"
-    prefix: "emoji:pig"
+    prefix: "ji:pig"
   "🐗":
     body: "content: '\\\\1F417';"
-    prefix: "emoji:boar"
+    prefix: "ji:boar"
   "🐽":
     body: "content: '\\\\1F43D';"
-    prefix: "emoji:pig-nose"
+    prefix: "ji:pig-nose"
   "🐏":
     body: "content: '\\\\1F40F';"
-    prefix: "emoji:ram"
+    prefix: "ji:ram"
   "🐑":
     body: "content: '\\\\1F411';"
-    prefix: "emoji:sheep"
+    prefix: "ji:sheep"
   "🐐":
     body: "content: '\\\\1F410';"
-    prefix: "emoji:goat"
+    prefix: "ji:goat"
   "🐪":
     body: "content: '\\\\1F42A';"
-    prefix: "emoji:dromedary-camel"
+    prefix: "ji:dromedary-camel"
   "🐫":
     body: "content: '\\\\1F42B';"
-    prefix: "emoji:bactrian-camel"
+    prefix: "ji:bactrian-camel"
   "🐘":
     body: "content: '\\\\1F418';"
-    prefix: "emoji:elephant"
+    prefix: "ji:elephant"
   "🐭":
     body: "content: '\\\\1F42D';"
-    prefix: "emoji:mouse-face"
+    prefix: "ji:mouse-face"
   "🐁":
     body: "content: '\\\\1F401';"
-    prefix: "emoji:mouse"
+    prefix: "ji:mouse"
   "🐀":
     body: "content: '\\\\1F400';"
-    prefix: "emoji:rat"
+    prefix: "ji:rat"
   "🐹":
     body: "content: '\\\\1F439';"
-    prefix: "emoji:hamster-face"
+    prefix: "ji:hamster-face"
   "🐰":
     body: "content: '\\\\1F430';"
-    prefix: "emoji:rabbit-face"
+    prefix: "ji:rabbit-face"
   "🐇":
     body: "content: '\\\\1F407';"
-    prefix: "emoji:rabbit"
+    prefix: "ji:rabbit"
   "🐿":
     body: "content: '\\\\1F43F';"
-    prefix: "emoji:chipmunk"
+    prefix: "ji:chipmunk"
   "🐻":
     body: "content: '\\\\1F43B';"
-    prefix: "emoji:bear-face"
+    prefix: "ji:bear-face"
   "🐨":
     body: "content: '\\\\1F428';"
-    prefix: "emoji:koala"
+    prefix: "ji:koala"
   "🐼":
     body: "content: '\\\\1F43C';"
-    prefix: "emoji:panda-face"
+    prefix: "ji:panda-face"
   "🐾":
     body: "content: '\\\\1F43E';"
-    prefix: "emoji:paw-prints"
+    prefix: "ji:paw-prints"
   "🦃":
     body: "content: '\\\\1F983';"
-    prefix: "emoji:turkey"
+    prefix: "ji:turkey"
   "🐔":
     body: "content: '\\\\1F414';"
-    prefix: "emoji:chicken"
+    prefix: "ji:chicken"
   "🐓":
     body: "content: '\\\\1F413';"
-    prefix: "emoji:rooster"
+    prefix: "ji:rooster"
   "🐣":
     body: "content: '\\\\1F423';"
-    prefix: "emoji:hatching-chick"
+    prefix: "ji:hatching-chick"
   "🐤":
     body: "content: '\\\\1F424';"
-    prefix: "emoji:baby-chick"
+    prefix: "ji:baby-chick"
   "🐥":
     body: "content: '\\\\1F425';"
-    prefix: "emoji:front-facing-baby-chick"
+    prefix: "ji:front-facing-baby-chick"
   "🐦":
     body: "content: '\\\\1F426';"
-    prefix: "emoji:bird"
+    prefix: "ji:bird"
   "🐧":
     body: "content: '\\\\1F427';"
-    prefix: "emoji:penguin"
+    prefix: "ji:penguin"
   "🕊":
     body: "content: '\\\\1F54A';"
-    prefix: "emoji:dove-of-peace"
+    prefix: "ji:dove-of-peace"
   "🐸":
     body: "content: '\\\\1F438';"
-    prefix: "emoji:frog-face"
+    prefix: "ji:frog-face"
   "🐊":
     body: "content: '\\\\1F40A';"
-    prefix: "emoji:crocodile"
+    prefix: "ji:crocodile"
   "🐢":
     body: "content: '\\\\1F422';"
-    prefix: "emoji:turtle"
+    prefix: "ji:turtle"
   "🐍":
     body: "content: '\\\\1F40D';"
-    prefix: "emoji:snake"
+    prefix: "ji:snake"
   "🐲":
     body: "content: '\\\\1F432';"
-    prefix: "emoji:dragon-face"
+    prefix: "ji:dragon-face"
   "🐉":
     body: "content: '\\\\1F409';"
-    prefix: "emoji:dragon"
+    prefix: "ji:dragon"
   "🐳":
     body: "content: '\\\\1F433';"
-    prefix: "emoji:spouting-whale"
+    prefix: "ji:spouting-whale"
   "🐋":
     body: "content: '\\\\1F40B';"
-    prefix: "emoji:whale"
+    prefix: "ji:whale"
   "🐬":
     body: "content: '\\\\1F42C';"
-    prefix: "emoji:dolphin"
+    prefix: "ji:dolphin"
   "🐟":
     body: "content: '\\\\1F41F';"
-    prefix: "emoji:fish"
+    prefix: "ji:fish"
   "🐠":
     body: "content: '\\\\1F420';"
-    prefix: "emoji:tropical-fish"
+    prefix: "ji:tropical-fish"
   "🐡":
     body: "content: '\\\\1F421';"
-    prefix: "emoji:blowfish"
+    prefix: "ji:blowfish"
   "🐙":
     body: "content: '\\\\1F419';"
-    prefix: "emoji:octopus"
+    prefix: "ji:octopus"
   "🐚":
     body: "content: '\\\\1F41A';"
-    prefix: "emoji:spiral-shell"
+    prefix: "ji:spiral-shell"
   "🦀":
     body: "content: '\\\\1F980';"
-    prefix: "emoji:crab"
+    prefix: "ji:crab"
   "🐌":
     body: "content: '\\\\1F40C';"
-    prefix: "emoji:snail"
+    prefix: "ji:snail"
   "🐛":
     body: "content: '\\\\1F41B';"
-    prefix: "emoji:bug"
+    prefix: "ji:bug"
   "🐜":
     body: "content: '\\\\1F41C';"
-    prefix: "emoji:ant"
+    prefix: "ji:ant"
   "🐝":
     body: "content: '\\\\1F41D';"
-    prefix: "emoji:honeybee"
+    prefix: "ji:honeybee"
   "🐞":
     body: "content: '\\\\1F41E';"
-    prefix: "emoji:lady-beetle"
+    prefix: "ji:lady-beetle"
   "🕷":
     body: "content: '\\\\1F577';"
-    prefix: "emoji:spider"
+    prefix: "ji:spider"
   "🕸":
     body: "content: '\\\\1F578';"
-    prefix: "emoji:spider-web"
+    prefix: "ji:spider-web"
   "🦂":
     body: "content: '\\\\1F982';"
-    prefix: "emoji:scorpion"
+    prefix: "ji:scorpion"
   "💐":
     body: "content: '\\\\1F490';"
-    prefix: "emoji:bouquet"
+    prefix: "ji:bouquet"
   "🌸":
     body: "content: '\\\\1F338';"
-    prefix: "emoji:cherry-blossom"
+    prefix: "ji:cherry-blossom"
   "💮":
     body: "content: '\\\\1F4AE';"
-    prefix: "emoji:white-flower"
+    prefix: "ji:white-flower"
   "🏵":
     body: "content: '\\\\1F3F5';"
-    prefix: "emoji:rosette"
+    prefix: "ji:rosette"
   "🌹":
     body: "content: '\\\\1F339';"
-    prefix: "emoji:rose"
+    prefix: "ji:rose"
   "🌺":
     body: "content: '\\\\1F33A';"
-    prefix: "emoji:hibiscus"
+    prefix: "ji:hibiscus"
   "🌻":
     body: "content: '\\\\1F33B';"
-    prefix: "emoji:sunflower"
+    prefix: "ji:sunflower"
   "🌼":
     body: "content: '\\\\1F33C';"
-    prefix: "emoji:blossom"
+    prefix: "ji:blossom"
   "🌷":
     body: "content: '\\\\1F337';"
-    prefix: "emoji:tulip"
+    prefix: "ji:tulip"
   "🌱":
     body: "content: '\\\\1F331';"
-    prefix: "emoji:seedling"
+    prefix: "ji:seedling"
   "🌲":
     body: "content: '\\\\1F332';"
-    prefix: "emoji:evergreen-tree"
+    prefix: "ji:evergreen-tree"
   "🌳":
     body: "content: '\\\\1F333';"
-    prefix: "emoji:deciduous-tree"
+    prefix: "ji:deciduous-tree"
   "🌴":
     body: "content: '\\\\1F334';"
-    prefix: "emoji:palm-tree"
+    prefix: "ji:palm-tree"
   "🌵":
     body: "content: '\\\\1F335';"
-    prefix: "emoji:cactus"
+    prefix: "ji:cactus"
   "🌾":
     body: "content: '\\\\1F33E';"
-    prefix: "emoji:ear-of-rice"
+    prefix: "ji:ear-of-rice"
   "🌿":
     body: "content: '\\\\1F33F';"
-    prefix: "emoji:herb"
+    prefix: "ji:herb"
   "☘":
     body: "content: '\\\\2618';"
-    prefix: "emoji:shamrock"
+    prefix: "ji:shamrock"
   "🍀":
     body: "content: '\\\\1F340';"
-    prefix: "emoji:four-leaf-clover"
+    prefix: "ji:four-leaf-clover"
   "🍁":
     body: "content: '\\\\1F341';"
-    prefix: "emoji:maple-leaf"
+    prefix: "ji:maple-leaf"
   "🍂":
     body: "content: '\\\\1F342';"
-    prefix: "emoji:fallen-leaf"
+    prefix: "ji:fallen-leaf"
   "🍃":
     body: "content: '\\\\1F343';"
-    prefix: "emoji:leaf-fluttering-in-wind"
+    prefix: "ji:leaf-fluttering-in-wind"
   "🍇":
     body: "content: '\\\\1F347';"
-    prefix: "emoji:grapes"
+    prefix: "ji:grapes"
   "🍈":
     body: "content: '\\\\1F348';"
-    prefix: "emoji:melon"
+    prefix: "ji:melon"
   "🍉":
     body: "content: '\\\\1F349';"
-    prefix: "emoji:watermelon"
+    prefix: "ji:watermelon"
   "🍊":
     body: "content: '\\\\1F34A';"
-    prefix: "emoji:tangerine"
+    prefix: "ji:tangerine"
   "🍋":
     body: "content: '\\\\1F34B';"
-    prefix: "emoji:lemon"
+    prefix: "ji:lemon"
   "🍌":
     body: "content: '\\\\1F34C';"
-    prefix: "emoji:banana"
+    prefix: "ji:banana"
   "🍍":
     body: "content: '\\\\1F34D';"
-    prefix: "emoji:pineapple"
+    prefix: "ji:pineapple"
   "🍎":
     body: "content: '\\\\1F34E';"
-    prefix: "emoji:red-apple"
+    prefix: "ji:red-apple"
   "🍏":
     body: "content: '\\\\1F34F';"
-    prefix: "emoji:green-apple"
+    prefix: "ji:green-apple"
   "🍐":
     body: "content: '\\\\1F350';"
-    prefix: "emoji:pear"
+    prefix: "ji:pear"
   "🍑":
     body: "content: '\\\\1F351';"
-    prefix: "emoji:peach"
+    prefix: "ji:peach"
   "🍒":
     body: "content: '\\\\1F352';"
-    prefix: "emoji:cherries"
+    prefix: "ji:cherries"
   "🍓":
     body: "content: '\\\\1F353';"
-    prefix: "emoji:strawberry"
+    prefix: "ji:strawberry"
   "🍅":
     body: "content: '\\\\1F345';"
-    prefix: "emoji:tomato"
+    prefix: "ji:tomato"
   "🍆":
     body: "content: '\\\\1F346';"
-    prefix: "emoji:aubergine"
+    prefix: "ji:aubergine"
   "🌽":
     body: "content: '\\\\1F33D';"
-    prefix: "emoji:ear-of-maize"
+    prefix: "ji:ear-of-maize"
   "🌶":
     body: "content: '\\\\1F336';"
-    prefix: "emoji:hot-pepper"
+    prefix: "ji:hot-pepper"
   "🍄":
     body: "content: '\\\\1F344';"
-    prefix: "emoji:mushroom"
+    prefix: "ji:mushroom"
   "🌰":
     body: "content: '\\\\1F330';"
-    prefix: "emoji:chestnut"
+    prefix: "ji:chestnut"
   "🍞":
     body: "content: '\\\\1F35E';"
-    prefix: "emoji:bread"
+    prefix: "ji:bread"
   "🧀":
     body: "content: '\\\\1F9C0';"
-    prefix: "emoji:cheese-wedge"
+    prefix: "ji:cheese-wedge"
   "🍖":
     body: "content: '\\\\1F356';"
-    prefix: "emoji:meat-on-bone"
+    prefix: "ji:meat-on-bone"
   "🍗":
     body: "content: '\\\\1F357';"
-    prefix: "emoji:poultry-leg"
+    prefix: "ji:poultry-leg"
   "🍔":
     body: "content: '\\\\1F354';"
-    prefix: "emoji:hamburger"
+    prefix: "ji:hamburger"
   "🍟":
     body: "content: '\\\\1F35F';"
-    prefix: "emoji:french-fries"
+    prefix: "ji:french-fries"
   "🍕":
     body: "content: '\\\\1F355';"
-    prefix: "emoji:slice-of-pizza"
+    prefix: "ji:slice-of-pizza"
   "🌭":
     body: "content: '\\\\1F32D';"
-    prefix: "emoji:hot-dog"
+    prefix: "ji:hot-dog"
   "🌮":
     body: "content: '\\\\1F32E';"
-    prefix: "emoji:taco"
+    prefix: "ji:taco"
   "🌯":
     body: "content: '\\\\1F32F';"
-    prefix: "emoji:burrito"
+    prefix: "ji:burrito"
   "🍳":
     body: "content: '\\\\1F373';"
-    prefix: "emoji:cooking"
+    prefix: "ji:cooking"
   "🍲":
     body: "content: '\\\\1F372';"
-    prefix: "emoji:pot-of-food"
+    prefix: "ji:pot-of-food"
   "🍿":
     body: "content: '\\\\1F37F';"
-    prefix: "emoji:popcorn"
+    prefix: "ji:popcorn"
   "🍱":
     body: "content: '\\\\1F371';"
-    prefix: "emoji:bento-box"
+    prefix: "ji:bento-box"
   "🍘":
     body: "content: '\\\\1F358';"
-    prefix: "emoji:rice-cracker"
+    prefix: "ji:rice-cracker"
   "🍙":
     body: "content: '\\\\1F359';"
-    prefix: "emoji:rice-ball"
+    prefix: "ji:rice-ball"
   "🍚":
     body: "content: '\\\\1F35A';"
-    prefix: "emoji:cooked-rice"
+    prefix: "ji:cooked-rice"
   "🍛":
     body: "content: '\\\\1F35B';"
-    prefix: "emoji:curry-and-rice"
+    prefix: "ji:curry-and-rice"
   "🍜":
     body: "content: '\\\\1F35C';"
-    prefix: "emoji:steaming-bowl"
+    prefix: "ji:steaming-bowl"
   "🍝":
     body: "content: '\\\\1F35D';"
-    prefix: "emoji:spaghetti"
+    prefix: "ji:spaghetti"
   "🍠":
     body: "content: '\\\\1F360';"
-    prefix: "emoji:roasted-sweet-potato"
+    prefix: "ji:roasted-sweet-potato"
   "🍢":
     body: "content: '\\\\1F362';"
-    prefix: "emoji:oden"
+    prefix: "ji:oden"
   "🍣":
     body: "content: '\\\\1F363';"
-    prefix: "emoji:sushi"
+    prefix: "ji:sushi"
   "🍤":
     body: "content: '\\\\1F364';"
-    prefix: "emoji:fried-shrimp"
+    prefix: "ji:fried-shrimp"
   "🍥":
     body: "content: '\\\\1F365';"
-    prefix: "emoji:fish-cake-with-swirl-design"
+    prefix: "ji:fish-cake-with-swirl-design"
   "🍡":
     body: "content: '\\\\1F361';"
-    prefix: "emoji:dango"
+    prefix: "ji:dango"
   "🍦":
     body: "content: '\\\\1F366';"
-    prefix: "emoji:soft-ice-cream"
+    prefix: "ji:soft-ice-cream"
   "🍧":
     body: "content: '\\\\1F367';"
-    prefix: "emoji:shaved-ice"
+    prefix: "ji:shaved-ice"
   "🍨":
     body: "content: '\\\\1F368';"
-    prefix: "emoji:ice-cream"
+    prefix: "ji:ice-cream"
   "🍩":
     body: "content: '\\\\1F369';"
-    prefix: "emoji:doughnut"
+    prefix: "ji:doughnut"
   "🍪":
     body: "content: '\\\\1F36A';"
-    prefix: "emoji:cookie"
+    prefix: "ji:cookie"
   "🎂":
     body: "content: '\\\\1F382';"
-    prefix: "emoji:birthday-cake"
+    prefix: "ji:birthday-cake"
   "🍰":
     body: "content: '\\\\1F370';"
-    prefix: "emoji:shortcake"
+    prefix: "ji:shortcake"
   "🍫":
     body: "content: '\\\\1F36B';"
-    prefix: "emoji:chocolate-bar"
+    prefix: "ji:chocolate-bar"
   "🍬":
     body: "content: '\\\\1F36C';"
-    prefix: "emoji:candy"
+    prefix: "ji:candy"
   "🍭":
     body: "content: '\\\\1F36D';"
-    prefix: "emoji:lollipop"
+    prefix: "ji:lollipop"
   "🍮":
     body: "content: '\\\\1F36E';"
-    prefix: "emoji:custard"
+    prefix: "ji:custard"
   "🍯":
     body: "content: '\\\\1F36F';"
-    prefix: "emoji:honey-pot"
+    prefix: "ji:honey-pot"
   "🍼":
     body: "content: '\\\\1F37C';"
-    prefix: "emoji:baby-bottle"
+    prefix: "ji:baby-bottle"
   "☕":
     body: "content: '\\\\2615';"
-    prefix: "emoji:hot-beverage"
+    prefix: "ji:hot-beverage"
   "🍵":
     body: "content: '\\\\1F375';"
-    prefix: "emoji:teacup-without-handle"
+    prefix: "ji:teacup-without-handle"
   "🍶":
     body: "content: '\\\\1F376';"
-    prefix: "emoji:sake-bottle-and-cup"
+    prefix: "ji:sake-bottle-and-cup"
   "🍾":
     body: "content: '\\\\1F37E';"
-    prefix: "emoji:bottle-with-popping-cork"
+    prefix: "ji:bottle-with-popping-cork"
   "🍷":
     body: "content: '\\\\1F377';"
-    prefix: "emoji:wine-glass"
+    prefix: "ji:wine-glass"
   "🍸":
     body: "content: '\\\\1F378';"
-    prefix: "emoji:cocktail-glass"
+    prefix: "ji:cocktail-glass"
   "🍹":
     body: "content: '\\\\1F379';"
-    prefix: "emoji:tropical-drink"
+    prefix: "ji:tropical-drink"
   "🍺":
     body: "content: '\\\\1F37A';"
-    prefix: "emoji:beer-mug"
+    prefix: "ji:beer-mug"
   "🍻":
     body: "content: '\\\\1F37B';"
-    prefix: "emoji:clinking-beer-mugs"
+    prefix: "ji:clinking-beer-mugs"
   "🍽":
     body: "content: '\\\\1F37D';"
-    prefix: "emoji:fork-and-knife-with-plate"
+    prefix: "ji:fork-and-knife-with-plate"
   "🍴":
     body: "content: '\\\\1F374';"
-    prefix: "emoji:fork-and-knife"
+    prefix: "ji:fork-and-knife"
   "🔪":
     body: "content: '\\\\1F52A';"
-    prefix: "emoji:hocho"
+    prefix: "ji:hocho"
   "🏺":
     body: "content: '\\\\1F3FA';"
-    prefix: "emoji:amphora"
+    prefix: "ji:amphora"
   "🌍":
     body: "content: '\\\\1F30D';"
-    prefix: "emoji:earth-globe-europe-africa"
+    prefix: "ji:earth-globe-europe-africa"
   "🌎":
     body: "content: '\\\\1F30E';"
-    prefix: "emoji:earth-globe-americas"
+    prefix: "ji:earth-globe-americas"
   "🌏":
     body: "content: '\\\\1F30F';"
-    prefix: "emoji:earth-globe-asia-australia"
+    prefix: "ji:earth-globe-asia-australia"
   "🌐":
     body: "content: '\\\\1F310';"
-    prefix: "emoji:globe-with-meridians"
+    prefix: "ji:globe-with-meridians"
   "🗺":
     body: "content: '\\\\1F5FA';"
-    prefix: "emoji:world-map"
+    prefix: "ji:world-map"
   "🗾":
     body: "content: '\\\\1F5FE';"
-    prefix: "emoji:silhouette-of-japan"
+    prefix: "ji:silhouette-of-japan"
   "🏔":
     body: "content: '\\\\1F3D4';"
-    prefix: "emoji:snow-capped-mountain"
+    prefix: "ji:snow-capped-mountain"
   "⛰":
     body: "content: '\\\\26F0';"
-    prefix: "emoji:mountain"
+    prefix: "ji:mountain"
   "🌋":
     body: "content: '\\\\1F30B';"
-    prefix: "emoji:volcano"
+    prefix: "ji:volcano"
   "🗻":
     body: "content: '\\\\1F5FB';"
-    prefix: "emoji:mount-fuji"
+    prefix: "ji:mount-fuji"
   "🏕":
     body: "content: '\\\\1F3D5';"
-    prefix: "emoji:camping"
+    prefix: "ji:camping"
   "🏖":
     body: "content: '\\\\1F3D6';"
-    prefix: "emoji:beach-with-umbrella"
+    prefix: "ji:beach-with-umbrella"
   "🏜":
     body: "content: '\\\\1F3DC';"
-    prefix: "emoji:desert"
+    prefix: "ji:desert"
   "🏝":
     body: "content: '\\\\1F3DD';"
-    prefix: "emoji:desert-island"
+    prefix: "ji:desert-island"
   "🏞":
     body: "content: '\\\\1F3DE';"
-    prefix: "emoji:national-park"
+    prefix: "ji:national-park"
   "🏟":
     body: "content: '\\\\1F3DF';"
-    prefix: "emoji:stadium"
+    prefix: "ji:stadium"
   "🏛":
     body: "content: '\\\\1F3DB';"
-    prefix: "emoji:classical-building"
+    prefix: "ji:classical-building"
   "🏗":
     body: "content: '\\\\1F3D7';"
-    prefix: "emoji:building-construction"
+    prefix: "ji:building-construction"
   "🏘":
     body: "content: '\\\\1F3D8';"
-    prefix: "emoji:house-buildings"
+    prefix: "ji:house-buildings"
   "🏙":
     body: "content: '\\\\1F3D9';"
-    prefix: "emoji:cityscape"
+    prefix: "ji:cityscape"
   "🏚":
     body: "content: '\\\\1F3DA';"
-    prefix: "emoji:derelict-house-building"
+    prefix: "ji:derelict-house-building"
   "🏠":
     body: "content: '\\\\1F3E0';"
-    prefix: "emoji:house-building"
+    prefix: "ji:house-building"
   "🏡":
     body: "content: '\\\\1F3E1';"
-    prefix: "emoji:house-with-garden"
+    prefix: "ji:house-with-garden"
   "🏢":
     body: "content: '\\\\1F3E2';"
-    prefix: "emoji:office-building"
+    prefix: "ji:office-building"
   "🏣":
     body: "content: '\\\\1F3E3';"
-    prefix: "emoji:japanese-post-office"
+    prefix: "ji:japanese-post-office"
   "🏤":
     body: "content: '\\\\1F3E4';"
-    prefix: "emoji:european-post-office"
+    prefix: "ji:european-post-office"
   "🏥":
     body: "content: '\\\\1F3E5';"
-    prefix: "emoji:hospital"
+    prefix: "ji:hospital"
   "🏦":
     body: "content: '\\\\1F3E6';"
-    prefix: "emoji:bank"
+    prefix: "ji:bank"
   "🏨":
     body: "content: '\\\\1F3E8';"
-    prefix: "emoji:hotel"
+    prefix: "ji:hotel"
   "🏩":
     body: "content: '\\\\1F3E9';"
-    prefix: "emoji:love-hotel"
+    prefix: "ji:love-hotel"
   "🏪":
     body: "content: '\\\\1F3EA';"
-    prefix: "emoji:convenience-store"
+    prefix: "ji:convenience-store"
   "🏫":
     body: "content: '\\\\1F3EB';"
-    prefix: "emoji:school"
+    prefix: "ji:school"
   "🏬":
     body: "content: '\\\\1F3EC';"
-    prefix: "emoji:department-store"
+    prefix: "ji:department-store"
   "🏭":
     body: "content: '\\\\1F3ED';"
-    prefix: "emoji:factory"
+    prefix: "ji:factory"
   "🏯":
     body: "content: '\\\\1F3EF';"
-    prefix: "emoji:japanese-castle"
+    prefix: "ji:japanese-castle"
   "🏰":
     body: "content: '\\\\1F3F0';"
-    prefix: "emoji:european-castle"
+    prefix: "ji:european-castle"
   "💒":
     body: "content: '\\\\1F492';"
-    prefix: "emoji:wedding"
+    prefix: "ji:wedding"
   "🗼":
     body: "content: '\\\\1F5FC';"
-    prefix: "emoji:tokyo-tower"
+    prefix: "ji:tokyo-tower"
   "🗽":
     body: "content: '\\\\1F5FD';"
-    prefix: "emoji:statue-of-liberty"
+    prefix: "ji:statue-of-liberty"
   "⛪":
     body: "content: '\\\\26EA';"
-    prefix: "emoji:church"
+    prefix: "ji:church"
   "🕌":
     body: "content: '\\\\1F54C';"
-    prefix: "emoji:mosque"
+    prefix: "ji:mosque"
   "🕍":
     body: "content: '\\\\1F54D';"
-    prefix: "emoji:synagogue"
+    prefix: "ji:synagogue"
   "⛩":
     body: "content: '\\\\26E9';"
-    prefix: "emoji:shinto-shrine"
+    prefix: "ji:shinto-shrine"
   "🕋":
     body: "content: '\\\\1F54B';"
-    prefix: "emoji:kaaba"
+    prefix: "ji:kaaba"
   "⛲":
     body: "content: '\\\\26F2';"
-    prefix: "emoji:fountain"
+    prefix: "ji:fountain"
   "⛺":
     body: "content: '\\\\26FA';"
-    prefix: "emoji:tent"
+    prefix: "ji:tent"
   "🌁":
     body: "content: '\\\\1F301';"
-    prefix: "emoji:foggy"
+    prefix: "ji:foggy"
   "🌃":
     body: "content: '\\\\1F303';"
-    prefix: "emoji:night-with-stars"
+    prefix: "ji:night-with-stars"
   "🌄":
     body: "content: '\\\\1F304';"
-    prefix: "emoji:sunrise-over-mountains"
+    prefix: "ji:sunrise-over-mountains"
   "🌅":
     body: "content: '\\\\1F305';"
-    prefix: "emoji:sunrise"
+    prefix: "ji:sunrise"
   "🌆":
     body: "content: '\\\\1F306';"
-    prefix: "emoji:cityscape-at-dusk"
+    prefix: "ji:cityscape-at-dusk"
   "🌇":
     body: "content: '\\\\1F307';"
-    prefix: "emoji:sunset-over-buildings"
+    prefix: "ji:sunset-over-buildings"
   "🌉":
     body: "content: '\\\\1F309';"
-    prefix: "emoji:bridge-at-night"
+    prefix: "ji:bridge-at-night"
   "♨":
     body: "content: '\\\\2668';"
-    prefix: "emoji:hot-springs"
+    prefix: "ji:hot-springs"
   "🌌":
     body: "content: '\\\\1F30C';"
-    prefix: "emoji:milky-way"
+    prefix: "ji:milky-way"
   "🎠":
     body: "content: '\\\\1F3A0';"
-    prefix: "emoji:carousel-horse"
+    prefix: "ji:carousel-horse"
   "🎡":
     body: "content: '\\\\1F3A1';"
-    prefix: "emoji:ferris-wheel"
+    prefix: "ji:ferris-wheel"
   "🎢":
     body: "content: '\\\\1F3A2';"
-    prefix: "emoji:roller-coaster"
+    prefix: "ji:roller-coaster"
   "💈":
     body: "content: '\\\\1F488';"
-    prefix: "emoji:barber-pole"
+    prefix: "ji:barber-pole"
   "🎪":
     body: "content: '\\\\1F3AA';"
-    prefix: "emoji:circus-tent"
+    prefix: "ji:circus-tent"
   "🎭":
     body: "content: '\\\\1F3AD';"
-    prefix: "emoji:performing-arts"
+    prefix: "ji:performing-arts"
   "🖼":
     body: "content: '\\\\1F5BC';"
-    prefix: "emoji:frame-with-picture"
+    prefix: "ji:frame-with-picture"
   "🎨":
     body: "content: '\\\\1F3A8';"
-    prefix: "emoji:artist-palette"
+    prefix: "ji:artist-palette"
   "🎰":
     body: "content: '\\\\1F3B0';"
-    prefix: "emoji:slot-machine"
+    prefix: "ji:slot-machine"
   "🚂":
     body: "content: '\\\\1F682';"
-    prefix: "emoji:steam-locomotive"
+    prefix: "ji:steam-locomotive"
   "🚃":
     body: "content: '\\\\1F683';"
-    prefix: "emoji:railway-car"
+    prefix: "ji:railway-car"
   "🚄":
     body: "content: '\\\\1F684';"
-    prefix: "emoji:high-speed-train"
+    prefix: "ji:high-speed-train"
   "🚅":
     body: "content: '\\\\1F685';"
-    prefix: "emoji:high-speed-train-with-bullet-nose"
+    prefix: "ji:high-speed-train-with-bullet-nose"
   "🚆":
     body: "content: '\\\\1F686';"
-    prefix: "emoji:train"
+    prefix: "ji:train"
   "🚇":
     body: "content: '\\\\1F687';"
-    prefix: "emoji:metro"
+    prefix: "ji:metro"
   "🚈":
     body: "content: '\\\\1F688';"
-    prefix: "emoji:light-rail"
+    prefix: "ji:light-rail"
   "🚉":
     body: "content: '\\\\1F689';"
-    prefix: "emoji:station"
+    prefix: "ji:station"
   "🚊":
     body: "content: '\\\\1F68A';"
-    prefix: "emoji:tram"
+    prefix: "ji:tram"
   "🚝":
     body: "content: '\\\\1F69D';"
-    prefix: "emoji:monorail"
+    prefix: "ji:monorail"
   "🚞":
     body: "content: '\\\\1F69E';"
-    prefix: "emoji:mountain-railway"
+    prefix: "ji:mountain-railway"
   "🚋":
     body: "content: '\\\\1F68B';"
-    prefix: "emoji:tram-car"
+    prefix: "ji:tram-car"
   "🚌":
     body: "content: '\\\\1F68C';"
-    prefix: "emoji:bus"
+    prefix: "ji:bus"
   "🚍":
     body: "content: '\\\\1F68D';"
-    prefix: "emoji:oncoming-bus"
+    prefix: "ji:oncoming-bus"
   "🚎":
     body: "content: '\\\\1F68E';"
-    prefix: "emoji:trolleybus"
+    prefix: "ji:trolleybus"
   "🚏":
     body: "content: '\\\\1F68F';"
-    prefix: "emoji:bus-stop"
+    prefix: "ji:bus-stop"
   "🚐":
     body: "content: '\\\\1F690';"
-    prefix: "emoji:minibus"
+    prefix: "ji:minibus"
   "🚑":
     body: "content: '\\\\1F691';"
-    prefix: "emoji:ambulance"
+    prefix: "ji:ambulance"
   "🚒":
     body: "content: '\\\\1F692';"
-    prefix: "emoji:fire-engine"
+    prefix: "ji:fire-engine"
   "🚓":
     body: "content: '\\\\1F693';"
-    prefix: "emoji:police-car"
+    prefix: "ji:police-car"
   "🚔":
     body: "content: '\\\\1F694';"
-    prefix: "emoji:oncoming-police-car"
+    prefix: "ji:oncoming-police-car"
   "🚕":
     body: "content: '\\\\1F695';"
-    prefix: "emoji:taxi"
+    prefix: "ji:taxi"
   "🚖":
     body: "content: '\\\\1F696';"
-    prefix: "emoji:oncoming-taxi"
+    prefix: "ji:oncoming-taxi"
   "🚗":
     body: "content: '\\\\1F697';"
-    prefix: "emoji:automobile"
+    prefix: "ji:automobile"
   "🚘":
     body: "content: '\\\\1F698';"
-    prefix: "emoji:oncoming-automobile"
+    prefix: "ji:oncoming-automobile"
   "🚙":
     body: "content: '\\\\1F699';"
-    prefix: "emoji:recreational-vehicle"
+    prefix: "ji:recreational-vehicle"
   "🚚":
     body: "content: '\\\\1F69A';"
-    prefix: "emoji:delivery-truck"
+    prefix: "ji:delivery-truck"
   "🚛":
     body: "content: '\\\\1F69B';"
-    prefix: "emoji:articulated-lorry"
+    prefix: "ji:articulated-lorry"
   "🚜":
     body: "content: '\\\\1F69C';"
-    prefix: "emoji:tractor"
+    prefix: "ji:tractor"
   "🚲":
     body: "content: '\\\\1F6B2';"
-    prefix: "emoji:bicycle"
+    prefix: "ji:bicycle"
   "⛽":
     body: "content: '\\\\26FD';"
-    prefix: "emoji:fuel-pump"
+    prefix: "ji:fuel-pump"
   "🛣":
     body: "content: '\\\\1F6E3';"
-    prefix: "emoji:motorway"
+    prefix: "ji:motorway"
   "🛤":
     body: "content: '\\\\1F6E4';"
-    prefix: "emoji:railway-track"
+    prefix: "ji:railway-track"
   "🚨":
     body: "content: '\\\\1F6A8';"
-    prefix: "emoji:police-cars-revolving-light"
+    prefix: "ji:police-cars-revolving-light"
   "🚥":
     body: "content: '\\\\1F6A5';"
-    prefix: "emoji:horizontal-traffic-light"
+    prefix: "ji:horizontal-traffic-light"
   "🚦":
     body: "content: '\\\\1F6A6';"
-    prefix: "emoji:vertical-traffic-light"
+    prefix: "ji:vertical-traffic-light"
   "🚧":
     body: "content: '\\\\1F6A7';"
-    prefix: "emoji:construction-sign"
+    prefix: "ji:construction-sign"
   "⚓":
     body: "content: '\\\\2693';"
-    prefix: "emoji:anchor"
+    prefix: "ji:anchor"
   "⛵":
     body: "content: '\\\\26F5';"
-    prefix: "emoji:sailboat"
+    prefix: "ji:sailboat"
   "🚣":
     body: "content: '\\\\1F6A3';"
-    prefix: "emoji:rowboat"
+    prefix: "ji:rowboat"
   "🚤":
     body: "content: '\\\\1F6A4';"
-    prefix: "emoji:speedboat"
+    prefix: "ji:speedboat"
   "🛳":
     body: "content: '\\\\1F6F3';"
-    prefix: "emoji:passenger-ship"
+    prefix: "ji:passenger-ship"
   "⛴":
     body: "content: '\\\\26F4';"
-    prefix: "emoji:ferry"
+    prefix: "ji:ferry"
   "🛥":
     body: "content: '\\\\1F6E5';"
-    prefix: "emoji:motor-boat"
+    prefix: "ji:motor-boat"
   "🚢":
     body: "content: '\\\\1F6A2';"
-    prefix: "emoji:ship"
+    prefix: "ji:ship"
   "✈":
     body: "content: '\\\\2708';"
-    prefix: "emoji:airplane"
+    prefix: "ji:airplane"
   "🛩":
     body: "content: '\\\\1F6E9';"
-    prefix: "emoji:small-airplane"
+    prefix: "ji:small-airplane"
   "🛫":
     body: "content: '\\\\1F6EB';"
-    prefix: "emoji:airplane-departure"
+    prefix: "ji:airplane-departure"
   "🛬":
     body: "content: '\\\\1F6EC';"
-    prefix: "emoji:airplane-arriving"
+    prefix: "ji:airplane-arriving"
   "💺":
     body: "content: '\\\\1F4BA';"
-    prefix: "emoji:seat"
+    prefix: "ji:seat"
   "🚁":
     body: "content: '\\\\1F681';"
-    prefix: "emoji:helicopter"
+    prefix: "ji:helicopter"
   "🚟":
     body: "content: '\\\\1F69F';"
-    prefix: "emoji:suspension-railway"
+    prefix: "ji:suspension-railway"
   "🚠":
     body: "content: '\\\\1F6A0';"
-    prefix: "emoji:mountain-cableway"
+    prefix: "ji:mountain-cableway"
   "🚡":
     body: "content: '\\\\1F6A1';"
-    prefix: "emoji:aerial-tramway"
+    prefix: "ji:aerial-tramway"
   "🚀":
     body: "content: '\\\\1F680';"
-    prefix: "emoji:rocket"
+    prefix: "ji:rocket"
   "🛰":
     body: "content: '\\\\1F6F0';"
-    prefix: "emoji:satellite"
+    prefix: "ji:satellite"
   "🛎":
     body: "content: '\\\\1F6CE';"
-    prefix: "emoji:bellhop-bell"
+    prefix: "ji:bellhop-bell"
   "🚪":
     body: "content: '\\\\1F6AA';"
-    prefix: "emoji:door"
+    prefix: "ji:door"
   "🛌":
     body: "content: '\\\\1F6CC';"
-    prefix: "emoji:sleeping-accommodation"
+    prefix: "ji:sleeping-accommodation"
   "🛏":
     body: "content: '\\\\1F6CF';"
-    prefix: "emoji:bed"
+    prefix: "ji:bed"
   "🛋":
     body: "content: '\\\\1F6CB';"
-    prefix: "emoji:couch-and-lamp"
+    prefix: "ji:couch-and-lamp"
   "🚽":
     body: "content: '\\\\1F6BD';"
-    prefix: "emoji:toilet"
+    prefix: "ji:toilet"
   "🚿":
     body: "content: '\\\\1F6BF';"
-    prefix: "emoji:shower"
+    prefix: "ji:shower"
   "🛀":
     body: "content: '\\\\1F6C0';"
-    prefix: "emoji:bath"
+    prefix: "ji:bath"
   "🛁":
     body: "content: '\\\\1F6C1';"
-    prefix: "emoji:bathtub"
+    prefix: "ji:bathtub"
   "⌛":
     body: "content: '\\\\231B';"
-    prefix: "emoji:hourglass"
+    prefix: "ji:hourglass"
   "⏳":
     body: "content: '\\\\23F3';"
-    prefix: "emoji:hourglass-with-flowing-sand"
+    prefix: "ji:hourglass-with-flowing-sand"
   "⌚":
     body: "content: '\\\\231A';"
-    prefix: "emoji:watch"
+    prefix: "ji:watch"
   "⏰":
     body: "content: '\\\\23F0';"
-    prefix: "emoji:alarm-clock"
+    prefix: "ji:alarm-clock"
   "⏱":
     body: "content: '\\\\23F1';"
-    prefix: "emoji:stopwatch"
+    prefix: "ji:stopwatch"
   "⏲":
     body: "content: '\\\\23F2';"
-    prefix: "emoji:timer-clock"
+    prefix: "ji:timer-clock"
   "🕰":
     body: "content: '\\\\1F570';"
-    prefix: "emoji:mantelpiece-clock"
+    prefix: "ji:mantelpiece-clock"
   "🕛":
     body: "content: '\\\\1F55B';"
-    prefix: "emoji:clock-face-twelve-oclock"
+    prefix: "ji:clock-face-twelve-oclock"
   "🕧":
     body: "content: '\\\\1F567';"
-    prefix: "emoji:clock-face-twelve-thirty"
+    prefix: "ji:clock-face-twelve-thirty"
   "🕐":
     body: "content: '\\\\1F550';"
-    prefix: "emoji:clock-face-one-oclock"
+    prefix: "ji:clock-face-one-oclock"
   "🕜":
     body: "content: '\\\\1F55C';"
-    prefix: "emoji:clock-face-one-thirty"
+    prefix: "ji:clock-face-one-thirty"
   "🕑":
     body: "content: '\\\\1F551';"
-    prefix: "emoji:clock-face-two-oclock"
+    prefix: "ji:clock-face-two-oclock"
   "🕝":
     body: "content: '\\\\1F55D';"
-    prefix: "emoji:clock-face-two-thirty"
+    prefix: "ji:clock-face-two-thirty"
   "🕒":
     body: "content: '\\\\1F552';"
-    prefix: "emoji:clock-face-three-oclock"
+    prefix: "ji:clock-face-three-oclock"
   "🕞":
     body: "content: '\\\\1F55E';"
-    prefix: "emoji:clock-face-three-thirty"
+    prefix: "ji:clock-face-three-thirty"
   "🕓":
     body: "content: '\\\\1F553';"
-    prefix: "emoji:clock-face-four-oclock"
+    prefix: "ji:clock-face-four-oclock"
   "🕟":
     body: "content: '\\\\1F55F';"
-    prefix: "emoji:clock-face-four-thirty"
+    prefix: "ji:clock-face-four-thirty"
   "🕔":
     body: "content: '\\\\1F554';"
-    prefix: "emoji:clock-face-five-oclock"
+    prefix: "ji:clock-face-five-oclock"
   "🕠":
     body: "content: '\\\\1F560';"
-    prefix: "emoji:clock-face-five-thirty"
+    prefix: "ji:clock-face-five-thirty"
   "🕕":
     body: "content: '\\\\1F555';"
-    prefix: "emoji:clock-face-six-oclock"
+    prefix: "ji:clock-face-six-oclock"
   "🕡":
     body: "content: '\\\\1F561';"
-    prefix: "emoji:clock-face-six-thirty"
+    prefix: "ji:clock-face-six-thirty"
   "🕖":
     body: "content: '\\\\1F556';"
-    prefix: "emoji:clock-face-seven-oclock"
+    prefix: "ji:clock-face-seven-oclock"
   "🕢":
     body: "content: '\\\\1F562';"
-    prefix: "emoji:clock-face-seven-thirty"
+    prefix: "ji:clock-face-seven-thirty"
   "🕗":
     body: "content: '\\\\1F557';"
-    prefix: "emoji:clock-face-eight-oclock"
+    prefix: "ji:clock-face-eight-oclock"
   "🕣":
     body: "content: '\\\\1F563';"
-    prefix: "emoji:clock-face-eight-thirty"
+    prefix: "ji:clock-face-eight-thirty"
   "🕘":
     body: "content: '\\\\1F558';"
-    prefix: "emoji:clock-face-nine-oclock"
+    prefix: "ji:clock-face-nine-oclock"
   "🕤":
     body: "content: '\\\\1F564';"
-    prefix: "emoji:clock-face-nine-thirty"
+    prefix: "ji:clock-face-nine-thirty"
   "🕙":
     body: "content: '\\\\1F559';"
-    prefix: "emoji:clock-face-ten-oclock"
+    prefix: "ji:clock-face-ten-oclock"
   "🕥":
     body: "content: '\\\\1F565';"
-    prefix: "emoji:clock-face-ten-thirty"
+    prefix: "ji:clock-face-ten-thirty"
   "🕚":
     body: "content: '\\\\1F55A';"
-    prefix: "emoji:clock-face-eleven-oclock"
+    prefix: "ji:clock-face-eleven-oclock"
   "🕦":
     body: "content: '\\\\1F566';"
-    prefix: "emoji:clock-face-eleven-thirty"
+    prefix: "ji:clock-face-eleven-thirty"
   "🌑":
     body: "content: '\\\\1F311';"
-    prefix: "emoji:new-moon-symbol"
+    prefix: "ji:new-moon-symbol"
   "🌒":
     body: "content: '\\\\1F312';"
-    prefix: "emoji:waxing-crescent-moon-symbol"
+    prefix: "ji:waxing-crescent-moon-symbol"
   "🌓":
     body: "content: '\\\\1F313';"
-    prefix: "emoji:first-quarter-moon-symbol"
+    prefix: "ji:first-quarter-moon-symbol"
   "🌔":
     body: "content: '\\\\1F314';"
-    prefix: "emoji:waxing-gibbous-moon-symbol"
+    prefix: "ji:waxing-gibbous-moon-symbol"
   "🌕":
     body: "content: '\\\\1F315';"
-    prefix: "emoji:full-moon-symbol"
+    prefix: "ji:full-moon-symbol"
   "🌖":
     body: "content: '\\\\1F316';"
-    prefix: "emoji:waning-gibbous-moon-symbol"
+    prefix: "ji:waning-gibbous-moon-symbol"
   "🌗":
     body: "content: '\\\\1F317';"
-    prefix: "emoji:last-quarter-moon-symbol"
+    prefix: "ji:last-quarter-moon-symbol"
   "🌘":
     body: "content: '\\\\1F318';"
-    prefix: "emoji:waning-crescent-moon-symbol"
+    prefix: "ji:waning-crescent-moon-symbol"
   "🌙":
     body: "content: '\\\\1F319';"
-    prefix: "emoji:crescent-moon"
+    prefix: "ji:crescent-moon"
   "🌚":
     body: "content: '\\\\1F31A';"
-    prefix: "emoji:new-moon-with-face"
+    prefix: "ji:new-moon-with-face"
   "🌛":
     body: "content: '\\\\1F31B';"
-    prefix: "emoji:first-quarter-moon-with-face"
+    prefix: "ji:first-quarter-moon-with-face"
   "🌜":
     body: "content: '\\\\1F31C';"
-    prefix: "emoji:last-quarter-moon-with-face"
+    prefix: "ji:last-quarter-moon-with-face"
   "🌡":
     body: "content: '\\\\1F321';"
-    prefix: "emoji:thermometer"
+    prefix: "ji:thermometer"
   "☀":
     body: "content: '\\\\2600';"
-    prefix: "emoji:black-sun-with-rays"
+    prefix: "ji:black-sun-with-rays"
   "🌝":
     body: "content: '\\\\1F31D';"
-    prefix: "emoji:full-moon-with-face"
+    prefix: "ji:full-moon-with-face"
   "🌞":
     body: "content: '\\\\1F31E';"
-    prefix: "emoji:sun-with-face"
+    prefix: "ji:sun-with-face"
   "⭐":
     body: "content: '\\\\2B50';"
-    prefix: "emoji:white-medium-star"
+    prefix: "ji:white-medium-star"
   "🌟":
     body: "content: '\\\\1F31F';"
-    prefix: "emoji:glowing-star"
+    prefix: "ji:glowing-star"
   "🌠":
     body: "content: '\\\\1F320';"
-    prefix: "emoji:shooting-star"
+    prefix: "ji:shooting-star"
   "☁":
     body: "content: '\\\\2601';"
-    prefix: "emoji:cloud"
+    prefix: "ji:cloud"
   "⛅":
     body: "content: '\\\\26C5';"
-    prefix: "emoji:sun-behind-cloud"
+    prefix: "ji:sun-behind-cloud"
   "⛈":
     body: "content: '\\\\26C8';"
-    prefix: "emoji:thunder-cloud-and-rain"
+    prefix: "ji:thunder-cloud-and-rain"
   "🌤":
     body: "content: '\\\\1F324';"
-    prefix: "emoji:white-sun-with-small-cloud"
+    prefix: "ji:white-sun-with-small-cloud"
   "🌥":
     body: "content: '\\\\1F325';"
-    prefix: "emoji:white-sun-behind-cloud"
+    prefix: "ji:white-sun-behind-cloud"
   "🌦":
     body: "content: '\\\\1F326';"
-    prefix: "emoji:white-sun-behind-cloud-with-rain"
+    prefix: "ji:white-sun-behind-cloud-with-rain"
   "🌧":
     body: "content: '\\\\1F327';"
-    prefix: "emoji:cloud-with-rain"
+    prefix: "ji:cloud-with-rain"
   "🌨":
     body: "content: '\\\\1F328';"
-    prefix: "emoji:cloud-with-snow"
+    prefix: "ji:cloud-with-snow"
   "🌩":
     body: "content: '\\\\1F329';"
-    prefix: "emoji:cloud-with-lightning"
+    prefix: "ji:cloud-with-lightning"
   "🌪":
     body: "content: '\\\\1F32A';"
-    prefix: "emoji:cloud-with-tornado"
+    prefix: "ji:cloud-with-tornado"
   "🌫":
     body: "content: '\\\\1F32B';"
-    prefix: "emoji:fog"
+    prefix: "ji:fog"
   "🌬":
     body: "content: '\\\\1F32C';"
-    prefix: "emoji:wind-blowing-face"
+    prefix: "ji:wind-blowing-face"
   "🌀":
     body: "content: '\\\\1F300';"
-    prefix: "emoji:cyclone"
+    prefix: "ji:cyclone"
   "🌈":
     body: "content: '\\\\1F308';"
-    prefix: "emoji:rainbow"
+    prefix: "ji:rainbow"
   "🌂":
     body: "content: '\\\\1F302';"
-    prefix: "emoji:closed-umbrella"
+    prefix: "ji:closed-umbrella"
   "☂":
     body: "content: '\\\\2602';"
-    prefix: "emoji:umbrella"
+    prefix: "ji:umbrella"
   "☔":
     body: "content: '\\\\2614';"
-    prefix: "emoji:umbrella-with-rain-drops"
+    prefix: "ji:umbrella-with-rain-drops"
   "⛱":
     body: "content: '\\\\26F1';"
-    prefix: "emoji:umbrella-on-ground"
+    prefix: "ji:umbrella-on-ground"
   "⚡":
     body: "content: '\\\\26A1';"
-    prefix: "emoji:high-voltage-sign"
+    prefix: "ji:high-voltage-sign"
   "❄":
     body: "content: '\\\\2744';"
-    prefix: "emoji:snowflake"
+    prefix: "ji:snowflake"
   "☃":
     body: "content: '\\\\2603';"
-    prefix: "emoji:snowman"
+    prefix: "ji:snowman"
   "⛄":
     body: "content: '\\\\26C4';"
-    prefix: "emoji:snowman-without-snow"
+    prefix: "ji:snowman-without-snow"
   "☄":
     body: "content: '\\\\2604';"
-    prefix: "emoji:comet"
+    prefix: "ji:comet"
   "🔥":
     body: "content: '\\\\1F525';"
-    prefix: "emoji:fire"
+    prefix: "ji:fire"
   "💧":
     body: "content: '\\\\1F4A7';"
-    prefix: "emoji:droplet"
+    prefix: "ji:droplet"
   "🌊":
     body: "content: '\\\\1F30A';"
-    prefix: "emoji:water-wave"
+    prefix: "ji:water-wave"
   "🎃":
     body: "content: '\\\\1F383';"
-    prefix: "emoji:jack-o-lantern"
+    prefix: "ji:jack-o-lantern"
   "🎄":
     body: "content: '\\\\1F384';"
-    prefix: "emoji:christmas-tree"
+    prefix: "ji:christmas-tree"
   "🎆":
     body: "content: '\\\\1F386';"
-    prefix: "emoji:fireworks"
+    prefix: "ji:fireworks"
   "🎇":
     body: "content: '\\\\1F387';"
-    prefix: "emoji:firework-sparkler"
+    prefix: "ji:firework-sparkler"
   "✨":
     body: "content: '\\\\2728';"
-    prefix: "emoji:sparkles"
+    prefix: "ji:sparkles"
   "🎈":
     body: "content: '\\\\1F388';"
-    prefix: "emoji:balloon"
+    prefix: "ji:balloon"
   "🎉":
     body: "content: '\\\\1F389';"
-    prefix: "emoji:party-popper"
+    prefix: "ji:party-popper"
   "🎊":
     body: "content: '\\\\1F38A';"
-    prefix: "emoji:confetti-ball"
+    prefix: "ji:confetti-ball"
   "🎋":
     body: "content: '\\\\1F38B';"
-    prefix: "emoji:tanabata-tree"
+    prefix: "ji:tanabata-tree"
   "🎍":
     body: "content: '\\\\1F38D';"
-    prefix: "emoji:pine-decoration"
+    prefix: "ji:pine-decoration"
   "🎎":
     body: "content: '\\\\1F38E';"
-    prefix: "emoji:japanese-dolls"
+    prefix: "ji:japanese-dolls"
   "🎏":
     body: "content: '\\\\1F38F';"
-    prefix: "emoji:carp-streamer"
+    prefix: "ji:carp-streamer"
   "🎐":
     body: "content: '\\\\1F390';"
-    prefix: "emoji:wind-chime"
+    prefix: "ji:wind-chime"
   "🎑":
     body: "content: '\\\\1F391';"
-    prefix: "emoji:moon-viewing-ceremony"
+    prefix: "ji:moon-viewing-ceremony"
   "🎀":
     body: "content: '\\\\1F380';"
-    prefix: "emoji:ribbon"
+    prefix: "ji:ribbon"
   "🎁":
     body: "content: '\\\\1F381';"
-    prefix: "emoji:wrapped-present"
+    prefix: "ji:wrapped-present"
   "🎗":
     body: "content: '\\\\1F397';"
-    prefix: "emoji:reminder-ribbon"
+    prefix: "ji:reminder-ribbon"
   "🎟":
     body: "content: '\\\\1F39F';"
-    prefix: "emoji:admission-tickets"
+    prefix: "ji:admission-tickets"
   "🎫":
     body: "content: '\\\\1F3AB';"
-    prefix: "emoji:ticket"
+    prefix: "ji:ticket"
   "🎖":
     body: "content: '\\\\1F396';"
-    prefix: "emoji:military-medal"
+    prefix: "ji:military-medal"
   "🏆":
     body: "content: '\\\\1F3C6';"
-    prefix: "emoji:trophy"
+    prefix: "ji:trophy"
   "🏅":
     body: "content: '\\\\1F3C5';"
-    prefix: "emoji:sports-medal"
+    prefix: "ji:sports-medal"
   "⚽":
     body: "content: '\\\\26BD';"
-    prefix: "emoji:soccer-ball"
+    prefix: "ji:soccer-ball"
   "⚾":
     body: "content: '\\\\26BE';"
-    prefix: "emoji:baseball"
+    prefix: "ji:baseball"
   "🏀":
     body: "content: '\\\\1F3C0';"
-    prefix: "emoji:basketball-and-hoop"
+    prefix: "ji:basketball-and-hoop"
   "🏐":
     body: "content: '\\\\1F3D0';"
-    prefix: "emoji:volleyball"
+    prefix: "ji:volleyball"
   "🏈":
     body: "content: '\\\\1F3C8';"
-    prefix: "emoji:american-football"
+    prefix: "ji:american-football"
   "🏉":
     body: "content: '\\\\1F3C9';"
-    prefix: "emoji:rugby-football"
+    prefix: "ji:rugby-football"
   "🎾":
     body: "content: '\\\\1F3BE';"
-    prefix: "emoji:tennis-racquet-and-ball"
+    prefix: "ji:tennis-racquet-and-ball"
   "🎱":
     body: "content: '\\\\1F3B1';"
-    prefix: "emoji:billiards"
+    prefix: "ji:billiards"
   "🎳":
     body: "content: '\\\\1F3B3';"
-    prefix: "emoji:bowling"
+    prefix: "ji:bowling"
   "🏏":
     body: "content: '\\\\1F3CF';"
-    prefix: "emoji:cricket-bat-and-ball"
+    prefix: "ji:cricket-bat-and-ball"
   "🏑":
     body: "content: '\\\\1F3D1';"
-    prefix: "emoji:field-hockey-stick-and-ball"
+    prefix: "ji:field-hockey-stick-and-ball"
   "🏒":
     body: "content: '\\\\1F3D2';"
-    prefix: "emoji:ice-hockey-stick-and-puck"
+    prefix: "ji:ice-hockey-stick-and-puck"
   "🏓":
     body: "content: '\\\\1F3D3';"
-    prefix: "emoji:table-tennis-paddle-and-ball"
+    prefix: "ji:table-tennis-paddle-and-ball"
   "🏸":
     body: "content: '\\\\1F3F8';"
-    prefix: "emoji:badminton-racquet-and-shuttlecock"
+    prefix: "ji:badminton-racquet-and-shuttlecock"
   "⛳":
     body: "content: '\\\\26F3';"
-    prefix: "emoji:flag-in-hole"
+    prefix: "ji:flag-in-hole"
   "🏌":
     body: "content: '\\\\1F3CC';"
-    prefix: "emoji:golfer"
+    prefix: "ji:golfer"
   "⛸":
     body: "content: '\\\\26F8';"
-    prefix: "emoji:ice-skate"
+    prefix: "ji:ice-skate"
   "🎣":
     body: "content: '\\\\1F3A3';"
-    prefix: "emoji:fishing-pole-and-fish"
+    prefix: "ji:fishing-pole-and-fish"
   "🎽":
     body: "content: '\\\\1F3BD';"
-    prefix: "emoji:running-shirt-with-sash"
+    prefix: "ji:running-shirt-with-sash"
   "🎿":
     body: "content: '\\\\1F3BF';"
-    prefix: "emoji:ski-and-ski-boot"
+    prefix: "ji:ski-and-ski-boot"
   "⛷":
     body: "content: '\\\\26F7';"
-    prefix: "emoji:skier"
+    prefix: "ji:skier"
   "🏂":
     body: "content: '\\\\1F3C2';"
-    prefix: "emoji:snowboarder"
+    prefix: "ji:snowboarder"
   "🏄":
     body: "content: '\\\\1F3C4';"
-    prefix: "emoji:surfer"
+    prefix: "ji:surfer"
   "🏇":
     body: "content: '\\\\1F3C7';"
-    prefix: "emoji:horse-racing"
+    prefix: "ji:horse-racing"
   "🏊":
     body: "content: '\\\\1F3CA';"
-    prefix: "emoji:swimmer"
+    prefix: "ji:swimmer"
   "⛹":
     body: "content: '\\\\26F9';"
-    prefix: "emoji:person-with-ball"
+    prefix: "ji:person-with-ball"
   "🏋":
     body: "content: '\\\\1F3CB';"
-    prefix: "emoji:weight-lifter"
+    prefix: "ji:weight-lifter"
   "🚴":
     body: "content: '\\\\1F6B4';"
-    prefix: "emoji:bicyclist"
+    prefix: "ji:bicyclist"
   "🚵":
     body: "content: '\\\\1F6B5';"
-    prefix: "emoji:mountain-bicyclist"
+    prefix: "ji:mountain-bicyclist"
   "🏎":
     body: "content: '\\\\1F3CE';"
-    prefix: "emoji:racing-car"
+    prefix: "ji:racing-car"
   "🏍":
     body: "content: '\\\\1F3CD';"
-    prefix: "emoji:racing-motorcycle"
+    prefix: "ji:racing-motorcycle"
   "🎯":
     body: "content: '\\\\1F3AF';"
-    prefix: "emoji:direct-hit"
+    prefix: "ji:direct-hit"
   "🎮":
     body: "content: '\\\\1F3AE';"
-    prefix: "emoji:video-game"
+    prefix: "ji:video-game"
   "🕹":
     body: "content: '\\\\1F579';"
-    prefix: "emoji:joystick"
+    prefix: "ji:joystick"
   "🎲":
     body: "content: '\\\\1F3B2';"
-    prefix: "emoji:game-die"
+    prefix: "ji:game-die"
   "♠":
     body: "content: '\\\\2660';"
-    prefix: "emoji:black-spade-suit"
+    prefix: "ji:black-spade-suit"
   "♥":
     body: "content: '\\\\2665';"
-    prefix: "emoji:black-heart-suit"
+    prefix: "ji:black-heart-suit"
   "♦":
     body: "content: '\\\\2666';"
-    prefix: "emoji:black-diamond-suit"
+    prefix: "ji:black-diamond-suit"
   "♣":
     body: "content: '\\\\2663';"
-    prefix: "emoji:black-club-suit"
+    prefix: "ji:black-club-suit"
   "🃏":
     body: "content: '\\\\1F0CF';"
-    prefix: "emoji:playing-card-black-joker"
+    prefix: "ji:playing-card-black-joker"
   "🀄":
     body: "content: '\\\\1F004';"
-    prefix: "emoji:mahjong-tile-red-dragon"
+    prefix: "ji:mahjong-tile-red-dragon"
   "🎴":
     body: "content: '\\\\1F3B4';"
-    prefix: "emoji:flower-playing-cards"
+    prefix: "ji:flower-playing-cards"
   "🔇":
     body: "content: '\\\\1F507';"
-    prefix: "emoji:speaker-with-cancellation-stroke"
+    prefix: "ji:speaker-with-cancellation-stroke"
   "🔈":
     body: "content: '\\\\1F508';"
-    prefix: "emoji:speaker"
+    prefix: "ji:speaker"
   "🔉":
     body: "content: '\\\\1F509';"
-    prefix: "emoji:speaker-with-one-sound-wave"
+    prefix: "ji:speaker-with-one-sound-wave"
   "🔊":
     body: "content: '\\\\1F50A';"
-    prefix: "emoji:speaker-with-three-sound-waves"
+    prefix: "ji:speaker-with-three-sound-waves"
   "📢":
     body: "content: '\\\\1F4E2';"
-    prefix: "emoji:public-address-loudspeaker"
+    prefix: "ji:public-address-loudspeaker"
   "📣":
     body: "content: '\\\\1F4E3';"
-    prefix: "emoji:cheering-megaphone"
+    prefix: "ji:cheering-megaphone"
   "📯":
     body: "content: '\\\\1F4EF';"
-    prefix: "emoji:postal-horn"
+    prefix: "ji:postal-horn"
   "🔔":
     body: "content: '\\\\1F514';"
-    prefix: "emoji:bell"
+    prefix: "ji:bell"
   "🔕":
     body: "content: '\\\\1F515';"
-    prefix: "emoji:bell-with-cancellation-stroke"
+    prefix: "ji:bell-with-cancellation-stroke"
   "🎼":
     body: "content: '\\\\1F3BC';"
-    prefix: "emoji:musical-score"
+    prefix: "ji:musical-score"
   "🎵":
     body: "content: '\\\\1F3B5';"
-    prefix: "emoji:musical-note"
+    prefix: "ji:musical-note"
   "🎶":
     body: "content: '\\\\1F3B6';"
-    prefix: "emoji:multiple-musical-notes"
+    prefix: "ji:multiple-musical-notes"
   "🎙":
     body: "content: '\\\\1F399';"
-    prefix: "emoji:studio-microphone"
+    prefix: "ji:studio-microphone"
   "🎚":
     body: "content: '\\\\1F39A';"
-    prefix: "emoji:level-slider"
+    prefix: "ji:level-slider"
   "🎛":
     body: "content: '\\\\1F39B';"
-    prefix: "emoji:control-knobs"
+    prefix: "ji:control-knobs"
   "🎤":
     body: "content: '\\\\1F3A4';"
-    prefix: "emoji:microphone"
+    prefix: "ji:microphone"
   "🎧":
     body: "content: '\\\\1F3A7';"
-    prefix: "emoji:headphone"
+    prefix: "ji:headphone"
   "📻":
     body: "content: '\\\\1F4FB';"
-    prefix: "emoji:radio"
+    prefix: "ji:radio"
   "🎷":
     body: "content: '\\\\1F3B7';"
-    prefix: "emoji:saxophone"
+    prefix: "ji:saxophone"
   "🎸":
     body: "content: '\\\\1F3B8';"
-    prefix: "emoji:guitar"
+    prefix: "ji:guitar"
   "🎹":
     body: "content: '\\\\1F3B9';"
-    prefix: "emoji:musical-keyboard"
+    prefix: "ji:musical-keyboard"
   "🎺":
     body: "content: '\\\\1F3BA';"
-    prefix: "emoji:trumpet"
+    prefix: "ji:trumpet"
   "🎻":
     body: "content: '\\\\1F3BB';"
-    prefix: "emoji:violin"
+    prefix: "ji:violin"
   "📱":
     body: "content: '\\\\1F4F1';"
-    prefix: "emoji:mobile-phone"
+    prefix: "ji:mobile-phone"
   "📲":
     body: "content: '\\\\1F4F2';"
-    prefix: "emoji:mobile-phone-with-rightwards-arrow-at-left"
+    prefix: "ji:mobile-phone-with-rightwards-arrow-at-left"
   "☎":
     body: "content: '\\\\260E';"
-    prefix: "emoji:black-telephone"
+    prefix: "ji:black-telephone"
   "📞":
     body: "content: '\\\\1F4DE';"
-    prefix: "emoji:telephone-receiver"
+    prefix: "ji:telephone-receiver"
   "📟":
     body: "content: '\\\\1F4DF';"
-    prefix: "emoji:pager"
+    prefix: "ji:pager"
   "📠":
     body: "content: '\\\\1F4E0';"
-    prefix: "emoji:fax-machine"
+    prefix: "ji:fax-machine"
   "🔋":
     body: "content: '\\\\1F50B';"
-    prefix: "emoji:battery"
+    prefix: "ji:battery"
   "🔌":
     body: "content: '\\\\1F50C';"
-    prefix: "emoji:electric-plug"
+    prefix: "ji:electric-plug"
   "💻":
     body: "content: '\\\\1F4BB';"
-    prefix: "emoji:personal-computer"
+    prefix: "ji:personal-computer"
   "🖥":
     body: "content: '\\\\1F5A5';"
-    prefix: "emoji:desktop-computer"
+    prefix: "ji:desktop-computer"
   "🖨":
     body: "content: '\\\\1F5A8';"
-    prefix: "emoji:printer"
+    prefix: "ji:printer"
   "⌨":
     body: "content: '\\\\2328';"
-    prefix: "emoji:keyboard"
+    prefix: "ji:keyboard"
   "🖱":
     body: "content: '\\\\1F5B1';"
-    prefix: "emoji:three-button-mouse"
+    prefix: "ji:three-button-mouse"
   "🖲":
     body: "content: '\\\\1F5B2';"
-    prefix: "emoji:trackball"
+    prefix: "ji:trackball"
   "💽":
     body: "content: '\\\\1F4BD';"
-    prefix: "emoji:minidisc"
+    prefix: "ji:minidisc"
   "💾":
     body: "content: '\\\\1F4BE';"
-    prefix: "emoji:floppy-disk"
+    prefix: "ji:floppy-disk"
   "💿":
     body: "content: '\\\\1F4BF';"
-    prefix: "emoji:optical-disc"
+    prefix: "ji:optical-disc"
   "📀":
     body: "content: '\\\\1F4C0';"
-    prefix: "emoji:dvd"
+    prefix: "ji:dvd"
   "🎥":
     body: "content: '\\\\1F3A5';"
-    prefix: "emoji:movie-camera"
+    prefix: "ji:movie-camera"
   "🎞":
     body: "content: '\\\\1F39E';"
-    prefix: "emoji:film-frames"
+    prefix: "ji:film-frames"
   "📽":
     body: "content: '\\\\1F4FD';"
-    prefix: "emoji:film-projector"
+    prefix: "ji:film-projector"
   "🎬":
     body: "content: '\\\\1F3AC';"
-    prefix: "emoji:clapper-board"
+    prefix: "ji:clapper-board"
   "📺":
     body: "content: '\\\\1F4FA';"
-    prefix: "emoji:television"
+    prefix: "ji:television"
   "📷":
     body: "content: '\\\\1F4F7';"
-    prefix: "emoji:camera"
+    prefix: "ji:camera"
   "📸":
     body: "content: '\\\\1F4F8';"
-    prefix: "emoji:camera-with-flash"
+    prefix: "ji:camera-with-flash"
   "📹":
     body: "content: '\\\\1F4F9';"
-    prefix: "emoji:video-camera"
+    prefix: "ji:video-camera"
   "📼":
     body: "content: '\\\\1F4FC';"
-    prefix: "emoji:videocassette"
+    prefix: "ji:videocassette"
   "🔍":
     body: "content: '\\\\1F50D';"
-    prefix: "emoji:left-pointing-magnifying-glass"
+    prefix: "ji:left-pointing-magnifying-glass"
   "🔎":
     body: "content: '\\\\1F50E';"
-    prefix: "emoji:right-pointing-magnifying-glass"
+    prefix: "ji:right-pointing-magnifying-glass"
   "🔬":
     body: "content: '\\\\1F52C';"
-    prefix: "emoji:microscope"
+    prefix: "ji:microscope"
   "🔭":
     body: "content: '\\\\1F52D';"
-    prefix: "emoji:telescope"
+    prefix: "ji:telescope"
   "📡":
     body: "content: '\\\\1F4E1';"
-    prefix: "emoji:satellite-antenna"
+    prefix: "ji:satellite-antenna"
   "🕯":
     body: "content: '\\\\1F56F';"
-    prefix: "emoji:candle"
+    prefix: "ji:candle"
   "💡":
     body: "content: '\\\\1F4A1';"
-    prefix: "emoji:electric-light-bulb"
+    prefix: "ji:electric-light-bulb"
   "🔦":
     body: "content: '\\\\1F526';"
-    prefix: "emoji:electric-torch"
+    prefix: "ji:electric-torch"
   "🏮":
     body: "content: '\\\\1F3EE';"
-    prefix: "emoji:izakaya-lantern"
+    prefix: "ji:izakaya-lantern"
   "📔":
     body: "content: '\\\\1F4D4';"
-    prefix: "emoji:notebook-with-decorative-cover"
+    prefix: "ji:notebook-with-decorative-cover"
   "📕":
     body: "content: '\\\\1F4D5';"
-    prefix: "emoji:closed-book"
+    prefix: "ji:closed-book"
   "📖":
     body: "content: '\\\\1F4D6';"
-    prefix: "emoji:open-book"
+    prefix: "ji:open-book"
   "📗":
     body: "content: '\\\\1F4D7';"
-    prefix: "emoji:green-book"
+    prefix: "ji:green-book"
   "📘":
     body: "content: '\\\\1F4D8';"
-    prefix: "emoji:blue-book"
+    prefix: "ji:blue-book"
   "📙":
     body: "content: '\\\\1F4D9';"
-    prefix: "emoji:orange-book"
+    prefix: "ji:orange-book"
   "📚":
     body: "content: '\\\\1F4DA';"
-    prefix: "emoji:books"
+    prefix: "ji:books"
   "📓":
     body: "content: '\\\\1F4D3';"
-    prefix: "emoji:notebook"
+    prefix: "ji:notebook"
   "📒":
     body: "content: '\\\\1F4D2';"
-    prefix: "emoji:ledger"
+    prefix: "ji:ledger"
   "📃":
     body: "content: '\\\\1F4C3';"
-    prefix: "emoji:page-with-curl"
+    prefix: "ji:page-with-curl"
   "📜":
     body: "content: '\\\\1F4DC';"
-    prefix: "emoji:scroll"
+    prefix: "ji:scroll"
   "📄":
     body: "content: '\\\\1F4C4';"
-    prefix: "emoji:page-facing-up"
+    prefix: "ji:page-facing-up"
   "📰":
     body: "content: '\\\\1F4F0';"
-    prefix: "emoji:newspaper"
+    prefix: "ji:newspaper"
   "🗞":
     body: "content: '\\\\1F5DE';"
-    prefix: "emoji:rolled-up-newspaper"
+    prefix: "ji:rolled-up-newspaper"
   "📑":
     body: "content: '\\\\1F4D1';"
-    prefix: "emoji:bookmark-tabs"
+    prefix: "ji:bookmark-tabs"
   "🔖":
     body: "content: '\\\\1F516';"
-    prefix: "emoji:bookmark"
+    prefix: "ji:bookmark"
   "🏷":
     body: "content: '\\\\1F3F7';"
-    prefix: "emoji:label"
+    prefix: "ji:label"
   "💰":
     body: "content: '\\\\1F4B0';"
-    prefix: "emoji:money-bag"
+    prefix: "ji:money-bag"
   "💴":
     body: "content: '\\\\1F4B4';"
-    prefix: "emoji:banknote-with-yen-sign"
+    prefix: "ji:banknote-with-yen-sign"
   "💵":
     body: "content: '\\\\1F4B5';"
-    prefix: "emoji:banknote-with-dollar-sign"
+    prefix: "ji:banknote-with-dollar-sign"
   "💶":
     body: "content: '\\\\1F4B6';"
-    prefix: "emoji:banknote-with-euro-sign"
+    prefix: "ji:banknote-with-euro-sign"
   "💷":
     body: "content: '\\\\1F4B7';"
-    prefix: "emoji:banknote-with-pound-sign"
+    prefix: "ji:banknote-with-pound-sign"
   "💸":
     body: "content: '\\\\1F4B8';"
-    prefix: "emoji:money-with-wings"
+    prefix: "ji:money-with-wings"
   "💳":
     body: "content: '\\\\1F4B3';"
-    prefix: "emoji:credit-card"
+    prefix: "ji:credit-card"
   "💹":
     body: "content: '\\\\1F4B9';"
-    prefix: "emoji:chart-with-upwards-trend-and-yen-sign"
+    prefix: "ji:chart-with-upwards-trend-and-yen-sign"
   "💱":
     body: "content: '\\\\1F4B1';"
-    prefix: "emoji:currency-exchange"
+    prefix: "ji:currency-exchange"
   "💲":
     body: "content: '\\\\1F4B2';"
-    prefix: "emoji:heavy-dollar-sign"
+    prefix: "ji:heavy-dollar-sign"
   "✉":
     body: "content: '\\\\2709';"
-    prefix: "emoji:envelope"
+    prefix: "ji:envelope"
   "📧":
     body: "content: '\\\\1F4E7';"
-    prefix: "emoji:e-mail-symbol"
+    prefix: "ji:e-mail-symbol"
   "📨":
     body: "content: '\\\\1F4E8';"
-    prefix: "emoji:incoming-envelope"
+    prefix: "ji:incoming-envelope"
   "📩":
     body: "content: '\\\\1F4E9';"
-    prefix: "emoji:envelope-with-downwards-arrow-above"
+    prefix: "ji:envelope-with-downwards-arrow-above"
   "📤":
     body: "content: '\\\\1F4E4';"
-    prefix: "emoji:outbox-tray"
+    prefix: "ji:outbox-tray"
   "📥":
     body: "content: '\\\\1F4E5';"
-    prefix: "emoji:inbox-tray"
+    prefix: "ji:inbox-tray"
   "📦":
     body: "content: '\\\\1F4E6';"
-    prefix: "emoji:package"
+    prefix: "ji:package"
   "📫":
     body: "content: '\\\\1F4EB';"
-    prefix: "emoji:closed-mailbox-with-raised-flag"
+    prefix: "ji:closed-mailbox-with-raised-flag"
   "📪":
     body: "content: '\\\\1F4EA';"
-    prefix: "emoji:closed-mailbox-with-lowered-flag"
+    prefix: "ji:closed-mailbox-with-lowered-flag"
   "📬":
     body: "content: '\\\\1F4EC';"
-    prefix: "emoji:open-mailbox-with-raised-flag"
+    prefix: "ji:open-mailbox-with-raised-flag"
   "📭":
     body: "content: '\\\\1F4ED';"
-    prefix: "emoji:open-mailbox-with-lowered-flag"
+    prefix: "ji:open-mailbox-with-lowered-flag"
   "📮":
     body: "content: '\\\\1F4EE';"
-    prefix: "emoji:postbox"
+    prefix: "ji:postbox"
   "🗳":
     body: "content: '\\\\1F5F3';"
-    prefix: "emoji:ballot-box-with-ballot"
+    prefix: "ji:ballot-box-with-ballot"
   "✏":
     body: "content: '\\\\270F';"
-    prefix: "emoji:pencil"
+    prefix: "ji:pencil"
   "✒":
     body: "content: '\\\\2712';"
-    prefix: "emoji:black-nib"
+    prefix: "ji:black-nib"
   "🖋":
     body: "content: '\\\\1F58B';"
-    prefix: "emoji:lower-left-fountain-pen"
+    prefix: "ji:lower-left-fountain-pen"
   "🖊":
     body: "content: '\\\\1F58A';"
-    prefix: "emoji:lower-left-ballpoint-pen"
+    prefix: "ji:lower-left-ballpoint-pen"
   "🖌":
     body: "content: '\\\\1F58C';"
-    prefix: "emoji:lower-left-paintbrush"
+    prefix: "ji:lower-left-paintbrush"
   "🖍":
     body: "content: '\\\\1F58D';"
-    prefix: "emoji:lower-left-crayon"
+    prefix: "ji:lower-left-crayon"
   "📝":
     body: "content: '\\\\1F4DD';"
-    prefix: "emoji:memo"
+    prefix: "ji:memo"
   "💼":
     body: "content: '\\\\1F4BC';"
-    prefix: "emoji:briefcase"
+    prefix: "ji:briefcase"
   "📁":
     body: "content: '\\\\1F4C1';"
-    prefix: "emoji:file-folder"
+    prefix: "ji:file-folder"
   "📂":
     body: "content: '\\\\1F4C2';"
-    prefix: "emoji:open-file-folder"
+    prefix: "ji:open-file-folder"
   "🗂":
     body: "content: '\\\\1F5C2';"
-    prefix: "emoji:card-index-dividers"
+    prefix: "ji:card-index-dividers"
   "📅":
     body: "content: '\\\\1F4C5';"
-    prefix: "emoji:calendar"
+    prefix: "ji:calendar"
   "📆":
     body: "content: '\\\\1F4C6';"
-    prefix: "emoji:tear-off-calendar"
+    prefix: "ji:tear-off-calendar"
   "🗒":
     body: "content: '\\\\1F5D2';"
-    prefix: "emoji:spiral-note-pad"
+    prefix: "ji:spiral-note-pad"
   "🗓":
     body: "content: '\\\\1F5D3';"
-    prefix: "emoji:spiral-calendar-pad"
+    prefix: "ji:spiral-calendar-pad"
   "📇":
     body: "content: '\\\\1F4C7';"
-    prefix: "emoji:card-index"
+    prefix: "ji:card-index"
   "📈":
     body: "content: '\\\\1F4C8';"
-    prefix: "emoji:chart-with-upwards-trend"
+    prefix: "ji:chart-with-upwards-trend"
   "📉":
     body: "content: '\\\\1F4C9';"
-    prefix: "emoji:chart-with-downwards-trend"
+    prefix: "ji:chart-with-downwards-trend"
   "📊":
     body: "content: '\\\\1F4CA';"
-    prefix: "emoji:bar-chart"
+    prefix: "ji:bar-chart"
   "📋":
     body: "content: '\\\\1F4CB';"
-    prefix: "emoji:clipboard"
+    prefix: "ji:clipboard"
   "📌":
     body: "content: '\\\\1F4CC';"
-    prefix: "emoji:pushpin"
+    prefix: "ji:pushpin"
   "📍":
     body: "content: '\\\\1F4CD';"
-    prefix: "emoji:round-pushpin"
+    prefix: "ji:round-pushpin"
   "📎":
     body: "content: '\\\\1F4CE';"
-    prefix: "emoji:paperclip"
+    prefix: "ji:paperclip"
   "🖇":
     body: "content: '\\\\1F587';"
-    prefix: "emoji:linked-paperclips"
+    prefix: "ji:linked-paperclips"
   "📏":
     body: "content: '\\\\1F4CF';"
-    prefix: "emoji:straight-ruler"
+    prefix: "ji:straight-ruler"
   "📐":
     body: "content: '\\\\1F4D0';"
-    prefix: "emoji:triangular-ruler"
+    prefix: "ji:triangular-ruler"
   "✂":
     body: "content: '\\\\2702';"
-    prefix: "emoji:black-scissors"
+    prefix: "ji:black-scissors"
   "🗃":
     body: "content: '\\\\1F5C3';"
-    prefix: "emoji:card-file-box"
+    prefix: "ji:card-file-box"
   "🗄":
     body: "content: '\\\\1F5C4';"
-    prefix: "emoji:file-cabinet"
+    prefix: "ji:file-cabinet"
   "🗑":
     body: "content: '\\\\1F5D1';"
-    prefix: "emoji:wastebasket"
+    prefix: "ji:wastebasket"
   "🔒":
     body: "content: '\\\\1F512';"
-    prefix: "emoji:lock"
+    prefix: "ji:lock"
   "🔓":
     body: "content: '\\\\1F513';"
-    prefix: "emoji:open-lock"
+    prefix: "ji:open-lock"
   "🔏":
     body: "content: '\\\\1F50F';"
-    prefix: "emoji:lock-with-ink-pen"
+    prefix: "ji:lock-with-ink-pen"
   "🔐":
     body: "content: '\\\\1F510';"
-    prefix: "emoji:closed-lock-with-key"
+    prefix: "ji:closed-lock-with-key"
   "🔑":
     body: "content: '\\\\1F511';"
-    prefix: "emoji:key"
+    prefix: "ji:key"
   "🗝":
     body: "content: '\\\\1F5DD';"
-    prefix: "emoji:old-key"
+    prefix: "ji:old-key"
   "🔨":
     body: "content: '\\\\1F528';"
-    prefix: "emoji:hammer"
+    prefix: "ji:hammer"
   "⛏":
     body: "content: '\\\\26CF';"
-    prefix: "emoji:pick"
+    prefix: "ji:pick"
   "⚒":
     body: "content: '\\\\2692';"
-    prefix: "emoji:hammer-and-pick"
+    prefix: "ji:hammer-and-pick"
   "🛠":
     body: "content: '\\\\1F6E0';"
-    prefix: "emoji:hammer-and-wrench"
+    prefix: "ji:hammer-and-wrench"
   "🗡":
     body: "content: '\\\\1F5E1';"
-    prefix: "emoji:dagger-knife"
+    prefix: "ji:dagger-knife"
   "⚔":
     body: "content: '\\\\2694';"
-    prefix: "emoji:crossed-swords"
+    prefix: "ji:crossed-swords"
   "🔫":
     body: "content: '\\\\1F52B';"
-    prefix: "emoji:pistol"
+    prefix: "ji:pistol"
   "🏹":
     body: "content: '\\\\1F3F9';"
-    prefix: "emoji:bow-and-arrow"
+    prefix: "ji:bow-and-arrow"
   "🛡":
     body: "content: '\\\\1F6E1';"
-    prefix: "emoji:shield"
+    prefix: "ji:shield"
   "🔧":
     body: "content: '\\\\1F527';"
-    prefix: "emoji:wrench"
+    prefix: "ji:wrench"
   "🔩":
     body: "content: '\\\\1F529';"
-    prefix: "emoji:nut-and-bolt"
+    prefix: "ji:nut-and-bolt"
   "⚙":
     body: "content: '\\\\2699';"
-    prefix: "emoji:gear"
+    prefix: "ji:gear"
   "🗜":
     body: "content: '\\\\1F5DC';"
-    prefix: "emoji:compression"
+    prefix: "ji:compression"
   "⚗":
     body: "content: '\\\\2697';"
-    prefix: "emoji:alembic"
+    prefix: "ji:alembic"
   "⚖":
     body: "content: '\\\\2696';"
-    prefix: "emoji:scales"
+    prefix: "ji:scales"
   "🔗":
     body: "content: '\\\\1F517';"
-    prefix: "emoji:link-symbol"
+    prefix: "ji:link-symbol"
   "⛓":
     body: "content: '\\\\26D3';"
-    prefix: "emoji:chains"
+    prefix: "ji:chains"
   "💉":
     body: "content: '\\\\1F489';"
-    prefix: "emoji:syringe"
+    prefix: "ji:syringe"
   "💊":
     body: "content: '\\\\1F48A';"
-    prefix: "emoji:pill"
+    prefix: "ji:pill"
   "🚬":
     body: "content: '\\\\1F6AC';"
-    prefix: "emoji:smoking-symbol"
+    prefix: "ji:smoking-symbol"
   "⚰":
     body: "content: '\\\\26B0';"
-    prefix: "emoji:coffin"
+    prefix: "ji:coffin"
   "⚱":
     body: "content: '\\\\26B1';"
-    prefix: "emoji:funeral-urn"
+    prefix: "ji:funeral-urn"
   "🗿":
     body: "content: '\\\\1F5FF';"
-    prefix: "emoji:moyai"
+    prefix: "ji:moyai"
   "🛢":
     body: "content: '\\\\1F6E2';"
-    prefix: "emoji:oil-drum"
+    prefix: "ji:oil-drum"
   "🔮":
     body: "content: '\\\\1F52E';"
-    prefix: "emoji:crystal-ball"
+    prefix: "ji:crystal-ball"
   "🏧":
     body: "content: '\\\\1F3E7';"
-    prefix: "emoji:automated-teller-machine"
+    prefix: "ji:automated-teller-machine"
   "🚮":
     body: "content: '\\\\1F6AE';"
-    prefix: "emoji:put-litter-in-its-place-symbol"
+    prefix: "ji:put-litter-in-its-place-symbol"
   "🚰":
     body: "content: '\\\\1F6B0';"
-    prefix: "emoji:potable-water-symbol"
+    prefix: "ji:potable-water-symbol"
   "♿":
     body: "content: '\\\\267F';"
-    prefix: "emoji:wheelchair-symbol"
+    prefix: "ji:wheelchair-symbol"
   "🚹":
     body: "content: '\\\\1F6B9';"
-    prefix: "emoji:mens-symbol"
+    prefix: "ji:mens-symbol"
   "🚺":
     body: "content: '\\\\1F6BA';"
-    prefix: "emoji:womens-symbol"
+    prefix: "ji:womens-symbol"
   "🚻":
     body: "content: '\\\\1F6BB';"
-    prefix: "emoji:restroom"
+    prefix: "ji:restroom"
   "🚼":
     body: "content: '\\\\1F6BC';"
-    prefix: "emoji:baby-symbol"
+    prefix: "ji:baby-symbol"
   "🚾":
     body: "content: '\\\\1F6BE';"
-    prefix: "emoji:water-closet"
+    prefix: "ji:water-closet"
   "🛂":
     body: "content: '\\\\1F6C2';"
-    prefix: "emoji:passport-control"
+    prefix: "ji:passport-control"
   "🛃":
     body: "content: '\\\\1F6C3';"
-    prefix: "emoji:customs"
+    prefix: "ji:customs"
   "🛄":
     body: "content: '\\\\1F6C4';"
-    prefix: "emoji:baggage-claim"
+    prefix: "ji:baggage-claim"
   "🛅":
     body: "content: '\\\\1F6C5';"
-    prefix: "emoji:left-luggage"
+    prefix: "ji:left-luggage"
   "⚠":
     body: "content: '\\\\26A0';"
-    prefix: "emoji:warning-sign"
+    prefix: "ji:warning-sign"
   "🚸":
     body: "content: '\\\\1F6B8';"
-    prefix: "emoji:children-crossing"
+    prefix: "ji:children-crossing"
   "⛔":
     body: "content: '\\\\26D4';"
-    prefix: "emoji:no-entry"
+    prefix: "ji:no-entry"
   "🚫":
     body: "content: '\\\\1F6AB';"
-    prefix: "emoji:no-entry-sign"
+    prefix: "ji:no-entry-sign"
   "🚳":
     body: "content: '\\\\1F6B3';"
-    prefix: "emoji:no-bicycles"
+    prefix: "ji:no-bicycles"
   "🚭":
     body: "content: '\\\\1F6AD';"
-    prefix: "emoji:no-smoking-symbol"
+    prefix: "ji:no-smoking-symbol"
   "🚯":
     body: "content: '\\\\1F6AF';"
-    prefix: "emoji:do-not-litter-symbol"
+    prefix: "ji:do-not-litter-symbol"
   "🚱":
     body: "content: '\\\\1F6B1';"
-    prefix: "emoji:non-potable-water-symbol"
+    prefix: "ji:non-potable-water-symbol"
   "🚷":
     body: "content: '\\\\1F6B7';"
-    prefix: "emoji:no-pedestrians"
+    prefix: "ji:no-pedestrians"
   "📵":
     body: "content: '\\\\1F4F5';"
-    prefix: "emoji:no-mobile-phones"
+    prefix: "ji:no-mobile-phones"
   "🔞":
     body: "content: '\\\\1F51E';"
-    prefix: "emoji:no-one-under-eighteen-symbol"
+    prefix: "ji:no-one-under-eighteen-symbol"
   "☢":
     body: "content: '\\\\2622';"
-    prefix: "emoji:radioactive-sign"
+    prefix: "ji:radioactive-sign"
   "☣":
     body: "content: '\\\\2623';"
-    prefix: "emoji:biohazard-sign"
+    prefix: "ji:biohazard-sign"
   "⬆":
     body: "content: '\\\\2B06';"
-    prefix: "emoji:upwards-black-arrow"
+    prefix: "ji:upwards-black-arrow"
   "↗":
     body: "content: '\\\\2197';"
-    prefix: "emoji:north-east-arrow"
+    prefix: "ji:north-east-arrow"
   "➡":
     body: "content: '\\\\27A1';"
-    prefix: "emoji:black-rightwards-arrow"
+    prefix: "ji:black-rightwards-arrow"
   "↘":
     body: "content: '\\\\2198';"
-    prefix: "emoji:south-east-arrow"
+    prefix: "ji:south-east-arrow"
   "⬇":
     body: "content: '\\\\2B07';"
-    prefix: "emoji:downwards-black-arrow"
+    prefix: "ji:downwards-black-arrow"
   "↙":
     body: "content: '\\\\2199';"
-    prefix: "emoji:south-west-arrow"
+    prefix: "ji:south-west-arrow"
   "⬅":
     body: "content: '\\\\2B05';"
-    prefix: "emoji:leftwards-black-arrow"
+    prefix: "ji:leftwards-black-arrow"
   "↖":
     body: "content: '\\\\2196';"
-    prefix: "emoji:north-west-arrow"
+    prefix: "ji:north-west-arrow"
   "↕":
     body: "content: '\\\\2195';"
-    prefix: "emoji:up-down-arrow"
+    prefix: "ji:up-down-arrow"
   "↔":
     body: "content: '\\\\2194';"
-    prefix: "emoji:left-right-arrow"
+    prefix: "ji:left-right-arrow"
   "↩":
     body: "content: '\\\\21A9';"
-    prefix: "emoji:leftwards-arrow-with-hook"
+    prefix: "ji:leftwards-arrow-with-hook"
   "↪":
     body: "content: '\\\\21AA';"
-    prefix: "emoji:rightwards-arrow-with-hook"
+    prefix: "ji:rightwards-arrow-with-hook"
   "⤴":
     body: "content: '\\\\2934';"
-    prefix: "emoji:arrow-pointing-rightwards-then-curving-upwards"
+    prefix: "ji:arrow-pointing-rightwards-then-curving-upwards"
   "⤵":
     body: "content: '\\\\2935';"
-    prefix: "emoji:arrow-pointing-rightwards-then-curving-downwards"
+    prefix: "ji:arrow-pointing-rightwards-then-curving-downwards"
   "🔃":
     body: "content: '\\\\1F503';"
-    prefix: "emoji:clockwise-downwards-and-upwards-open-circle-arrows"
+    prefix: "ji:clockwise-downwards-and-upwards-open-circle-arrows"
   "🔄":
     body: "content: '\\\\1F504';"
-    prefix: "emoji:anticlockwise-downwards-and-upwards-open-circle-arrows"
+    prefix: "ji:anticlockwise-downwards-and-upwards-open-circle-arrows"
   "🔙":
     body: "content: '\\\\1F519';"
-    prefix: "emoji:back-with-leftwards-arrow-above"
+    prefix: "ji:back-with-leftwards-arrow-above"
   "🔚":
     body: "content: '\\\\1F51A';"
-    prefix: "emoji:end-with-leftwards-arrow-above"
+    prefix: "ji:end-with-leftwards-arrow-above"
   "🔛":
     body: "content: '\\\\1F51B';"
-    prefix: "emoji:on-with-exclamation-mark-with-left-right-arrow-above"
+    prefix: "ji:on-with-exclamation-mark-with-left-right-arrow-above"
   "🔜":
     body: "content: '\\\\1F51C';"
-    prefix: "emoji:soon-with-rightwards-arrow-above"
+    prefix: "ji:soon-with-rightwards-arrow-above"
   "🔝":
     body: "content: '\\\\1F51D';"
-    prefix: "emoji:top-with-upwards-arrow-above"
+    prefix: "ji:top-with-upwards-arrow-above"
   "🛐":
     body: "content: '\\\\1F6D0';"
-    prefix: "emoji:place-of-worship"
+    prefix: "ji:place-of-worship"
   "⚛":
     body: "content: '\\\\269B';"
-    prefix: "emoji:atom-symbol"
+    prefix: "ji:atom-symbol"
   "🕉":
     body: "content: '\\\\1F549';"
-    prefix: "emoji:om-symbol"
+    prefix: "ji:om-symbol"
   "✡":
     body: "content: '\\\\2721';"
-    prefix: "emoji:star-of-david"
+    prefix: "ji:star-of-david"
   "☸":
     body: "content: '\\\\2638';"
-    prefix: "emoji:wheel-of-dharma"
+    prefix: "ji:wheel-of-dharma"
   "☯":
     body: "content: '\\\\262F';"
-    prefix: "emoji:yin-yang"
+    prefix: "ji:yin-yang"
   "✝":
     body: "content: '\\\\271D';"
-    prefix: "emoji:latin-cross"
+    prefix: "ji:latin-cross"
   "☦":
     body: "content: '\\\\2626';"
-    prefix: "emoji:orthodox-cross"
+    prefix: "ji:orthodox-cross"
   "☪":
     body: "content: '\\\\262A';"
-    prefix: "emoji:star-and-crescent"
+    prefix: "ji:star-and-crescent"
   "☮":
     body: "content: '\\\\262E';"
-    prefix: "emoji:peace-symbol"
+    prefix: "ji:peace-symbol"
   "🕎":
     body: "content: '\\\\1F54E';"
-    prefix: "emoji:menorah-with-nine-branches"
+    prefix: "ji:menorah-with-nine-branches"
   "🔯":
     body: "content: '\\\\1F52F';"
-    prefix: "emoji:six-pointed-star-with-middle-dot"
+    prefix: "ji:six-pointed-star-with-middle-dot"
   "♻":
     body: "content: '\\\\267B';"
-    prefix: "emoji:black-universal-recycling-symbol"
+    prefix: "ji:black-universal-recycling-symbol"
   "📛":
     body: "content: '\\\\1F4DB';"
-    prefix: "emoji:name-badge"
+    prefix: "ji:name-badge"
   "⚜":
     body: "content: '\\\\269C';"
-    prefix: "emoji:fleur-de-lis"
+    prefix: "ji:fleur-de-lis"
   "🔰":
     body: "content: '\\\\1F530';"
-    prefix: "emoji:japanese-symbol-for-beginner"
+    prefix: "ji:japanese-symbol-for-beginner"
   "🔱":
     body: "content: '\\\\1F531';"
-    prefix: "emoji:trident-emblem"
+    prefix: "ji:trident-emblem"
   "⭕":
     body: "content: '\\\\2B55';"
-    prefix: "emoji:heavy-large-circle"
+    prefix: "ji:heavy-large-circle"
   "✅":
     body: "content: '\\\\2705';"
-    prefix: "emoji:white-heavy-check-mark"
+    prefix: "ji:white-heavy-check-mark"
   "☑":
     body: "content: '\\\\2611';"
-    prefix: "emoji:ballot-box-with-check"
+    prefix: "ji:ballot-box-with-check"
   "✔":
     body: "content: '\\\\2714';"
-    prefix: "emoji:heavy-check-mark"
+    prefix: "ji:heavy-check-mark"
   "✖":
     body: "content: '\\\\2716';"
-    prefix: "emoji:heavy-multiplication-x"
+    prefix: "ji:heavy-multiplication-x"
   "❌":
     body: "content: '\\\\274C';"
-    prefix: "emoji:cross-mark"
+    prefix: "ji:cross-mark"
   "❎":
     body: "content: '\\\\274E';"
-    prefix: "emoji:negative-squared-cross-mark"
+    prefix: "ji:negative-squared-cross-mark"
   "➕":
     body: "content: '\\\\2795';"
-    prefix: "emoji:heavy-plus-sign"
+    prefix: "ji:heavy-plus-sign"
   "➖":
     body: "content: '\\\\2796';"
-    prefix: "emoji:heavy-minus-sign"
+    prefix: "ji:heavy-minus-sign"
   "➗":
     body: "content: '\\\\2797';"
-    prefix: "emoji:heavy-division-sign"
+    prefix: "ji:heavy-division-sign"
   "➰":
     body: "content: '\\\\27B0';"
-    prefix: "emoji:curly-loop"
+    prefix: "ji:curly-loop"
   "➿":
     body: "content: '\\\\27BF';"
-    prefix: "emoji:double-curly-loop"
+    prefix: "ji:double-curly-loop"
   "〽":
     body: "content: '\\\\303D';"
-    prefix: "emoji:part-alternation-mark"
+    prefix: "ji:part-alternation-mark"
   "✳":
     body: "content: '\\\\2733';"
-    prefix: "emoji:eight-spoked-asterisk"
+    prefix: "ji:eight-spoked-asterisk"
   "✴":
     body: "content: '\\\\2734';"
-    prefix: "emoji:eight-pointed-black-star"
+    prefix: "ji:eight-pointed-black-star"
   "❇":
     body: "content: '\\\\2747';"
-    prefix: "emoji:sparkle"
+    prefix: "ji:sparkle"
   "‼":
     body: "content: '\\\\203C';"
-    prefix: "emoji:double-exclamation-mark"
+    prefix: "ji:double-exclamation-mark"
   "⁉":
     body: "content: '\\\\2049';"
-    prefix: "emoji:exclamation-question-mark"
+    prefix: "ji:exclamation-question-mark"
   "❓":
     body: "content: '\\\\2753';"
-    prefix: "emoji:black-question-mark-ornament"
+    prefix: "ji:black-question-mark-ornament"
   "❔":
     body: "content: '\\\\2754';"
-    prefix: "emoji:white-question-mark-ornament"
+    prefix: "ji:white-question-mark-ornament"
   "❕":
     body: "content: '\\\\2755';"
-    prefix: "emoji:white-exclamation-mark-ornament"
+    prefix: "ji:white-exclamation-mark-ornament"
   "❗":
     body: "content: '\\\\2757';"
-    prefix: "emoji:heavy-exclamation-mark-symbol"
+    prefix: "ji:heavy-exclamation-mark-symbol"
   "〰":
     body: "content: '\\\\3030';"
-    prefix: "emoji:wavy-dash"
+    prefix: "ji:wavy-dash"
   "©":
     body: "content: '\\\\00A9';"
-    prefix: "emoji:copyright-sign"
+    prefix: "ji:copyright-sign"
   "®":
     body: "content: '\\\\00AE';"
-    prefix: "emoji:registered-sign"
+    prefix: "ji:registered-sign"
   "™":
     body: "content: '\\\\2122';"
-    prefix: "emoji:trade-mark-sign"
+    prefix: "ji:trade-mark-sign"
   "♈":
     body: "content: '\\\\2648';"
-    prefix: "emoji:aries"
+    prefix: "ji:aries"
   "♉":
     body: "content: '\\\\2649';"
-    prefix: "emoji:taurus"
+    prefix: "ji:taurus"
   "♊":
     body: "content: '\\\\264A';"
-    prefix: "emoji:gemini"
+    prefix: "ji:gemini"
   "♋":
     body: "content: '\\\\264B';"
-    prefix: "emoji:cancer"
+    prefix: "ji:cancer"
   "♌":
     body: "content: '\\\\264C';"
-    prefix: "emoji:leo"
+    prefix: "ji:leo"
   "♍":
     body: "content: '\\\\264D';"
-    prefix: "emoji:virgo"
+    prefix: "ji:virgo"
   "♎":
     body: "content: '\\\\264E';"
-    prefix: "emoji:libra"
+    prefix: "ji:libra"
   "♏":
     body: "content: '\\\\264F';"
-    prefix: "emoji:scorpius"
+    prefix: "ji:scorpius"
   "♐":
     body: "content: '\\\\2650';"
-    prefix: "emoji:sagittarius"
+    prefix: "ji:sagittarius"
   "♑":
     body: "content: '\\\\2651';"
-    prefix: "emoji:capricorn"
+    prefix: "ji:capricorn"
   "♒":
     body: "content: '\\\\2652';"
-    prefix: "emoji:aquarius"
+    prefix: "ji:aquarius"
   "♓":
     body: "content: '\\\\2653';"
-    prefix: "emoji:pisces"
+    prefix: "ji:pisces"
   "⛎":
     body: "content: '\\\\26CE';"
-    prefix: "emoji:ophiuchus"
+    prefix: "ji:ophiuchus"
   "🔀":
     body: "content: '\\\\1F500';"
-    prefix: "emoji:twisted-rightwards-arrows"
+    prefix: "ji:twisted-rightwards-arrows"
   "🔁":
     body: "content: '\\\\1F501';"
-    prefix: "emoji:clockwise-rightwards-and-leftwards-open-circle-arrows"
+    prefix: "ji:clockwise-rightwards-and-leftwards-open-circle-arrows"
   "🔂":
     body: "content: '\\\\1F502';"
-    prefix: "emoji:clockwise-rightwards-and-leftwards-open-circle-arrows-with-circled-one-overlay"
+    prefix: "ji:clockwise-rightwards-and-leftwards-open-circle-arrows-with-circled-one-overlay"
   "▶":
     body: "content: '\\\\25B6';"
-    prefix: "emoji:black-right-pointing-triangle"
+    prefix: "ji:black-right-pointing-triangle"
   "⏩":
     body: "content: '\\\\23E9';"
-    prefix: "emoji:black-right-pointing-double-triangle"
+    prefix: "ji:black-right-pointing-double-triangle"
   "⏭":
     body: "content: '\\\\23ED';"
-    prefix: "emoji:black-right-pointing-double-triangle-with-vertical-bar"
+    prefix: "ji:black-right-pointing-double-triangle-with-vertical-bar"
   "⏯":
     body: "content: '\\\\23EF';"
-    prefix: "emoji:black-right-pointing-triangle-with-double-vertical-bar"
+    prefix: "ji:black-right-pointing-triangle-with-double-vertical-bar"
   "◀":
     body: "content: '\\\\25C0';"
-    prefix: "emoji:black-left-pointing-triangle"
+    prefix: "ji:black-left-pointing-triangle"
   "⏪":
     body: "content: '\\\\23EA';"
-    prefix: "emoji:black-left-pointing-double-triangle"
+    prefix: "ji:black-left-pointing-double-triangle"
   "⏮":
     body: "content: '\\\\23EE';"
-    prefix: "emoji:black-left-pointing-double-triangle-with-vertical-bar"
+    prefix: "ji:black-left-pointing-double-triangle-with-vertical-bar"
   "🔼":
     body: "content: '\\\\1F53C';"
-    prefix: "emoji:up-pointing-small-red-triangle"
+    prefix: "ji:up-pointing-small-red-triangle"
   "⏫":
     body: "content: '\\\\23EB';"
-    prefix: "emoji:black-up-pointing-double-triangle"
+    prefix: "ji:black-up-pointing-double-triangle"
   "🔽":
     body: "content: '\\\\1F53D';"
-    prefix: "emoji:down-pointing-small-red-triangle"
+    prefix: "ji:down-pointing-small-red-triangle"
   "⏬":
     body: "content: '\\\\23EC';"
-    prefix: "emoji:black-down-pointing-double-triangle"
+    prefix: "ji:black-down-pointing-double-triangle"
   "⏸":
     body: "content: '\\\\23F8';"
-    prefix: "emoji:double-vertical-bar"
+    prefix: "ji:double-vertical-bar"
   "⏹":
     body: "content: '\\\\23F9';"
-    prefix: "emoji:black-square-for-stop"
+    prefix: "ji:black-square-for-stop"
   "⏺":
     body: "content: '\\\\23FA';"
-    prefix: "emoji:black-circle-for-record"
+    prefix: "ji:black-circle-for-record"
   "⏏":
     body: "content: '\\\\23CF';"
-    prefix: "emoji:eject-symbol"
+    prefix: "ji:eject-symbol"
   "🎦":
     body: "content: '\\\\1F3A6';"
-    prefix: "emoji:cinema"
+    prefix: "ji:cinema"
   "🔅":
     body: "content: '\\\\1F505';"
-    prefix: "emoji:low-brightness-symbol"
+    prefix: "ji:low-brightness-symbol"
   "🔆":
     body: "content: '\\\\1F506';"
-    prefix: "emoji:high-brightness-symbol"
+    prefix: "ji:high-brightness-symbol"
   "📶":
     body: "content: '\\\\1F4F6';"
-    prefix: "emoji:antenna-with-bars"
+    prefix: "ji:antenna-with-bars"
   "📳":
     body: "content: '\\\\1F4F3';"
-    prefix: "emoji:vibration-mode"
+    prefix: "ji:vibration-mode"
   "📴":
     body: "content: '\\\\1F4F4';"
-    prefix: "emoji:mobile-phone-off"
+    prefix: "ji:mobile-phone-off"
   "🔟":
     body: "content: '\\\\1F51F';"
-    prefix: "emoji:keycap-ten"
+    prefix: "ji:keycap-ten"
   "💯":
     body: "content: '\\\\1F4AF';"
-    prefix: "emoji:hundred-points-symbol"
+    prefix: "ji:hundred-points-symbol"
   "🔠":
     body: "content: '\\\\1F520';"
-    prefix: "emoji:input-symbol-for-latin-capital-letters"
+    prefix: "ji:input-symbol-for-latin-capital-letters"
   "🔡":
     body: "content: '\\\\1F521';"
-    prefix: "emoji:input-symbol-for-latin-small-letters"
+    prefix: "ji:input-symbol-for-latin-small-letters"
   "🔢":
     body: "content: '\\\\1F522';"
-    prefix: "emoji:input-symbol-for-numbers"
+    prefix: "ji:input-symbol-for-numbers"
   "🔣":
     body: "content: '\\\\1F523';"
-    prefix: "emoji:input-symbol-for-symbols"
+    prefix: "ji:input-symbol-for-symbols"
   "🔤":
     body: "content: '\\\\1F524';"
-    prefix: "emoji:input-symbol-for-latin-letters"
+    prefix: "ji:input-symbol-for-latin-letters"
   "🅰":
     body: "content: '\\\\1F170';"
-    prefix: "emoji:negative-squared-latin-capital-letter-a"
+    prefix: "ji:negative-squared-latin-capital-letter-a"
   "🆎":
     body: "content: '\\\\1F18E';"
-    prefix: "emoji:negative-squared-ab"
+    prefix: "ji:negative-squared-ab"
   "🅱":
     body: "content: '\\\\1F171';"
-    prefix: "emoji:negative-squared-latin-capital-letter-b"
+    prefix: "ji:negative-squared-latin-capital-letter-b"
   "🆑":
     body: "content: '\\\\1F191';"
-    prefix: "emoji:squared-cl"
+    prefix: "ji:squared-cl"
   "🆒":
     body: "content: '\\\\1F192';"
-    prefix: "emoji:squared-cool"
+    prefix: "ji:squared-cool"
   "🆓":
     body: "content: '\\\\1F193';"
-    prefix: "emoji:squared-free"
+    prefix: "ji:squared-free"
   "ℹ":
     body: "content: '\\\\2139';"
-    prefix: "emoji:information-source"
+    prefix: "ji:information-source"
   "🆔":
     body: "content: '\\\\1F194';"
-    prefix: "emoji:squared-id"
+    prefix: "ji:squared-id"
   "Ⓜ":
     body: "content: '\\\\24C2';"
-    prefix: "emoji:circled-latin-capital-letter-m"
+    prefix: "ji:circled-latin-capital-letter-m"
   "🆕":
     body: "content: '\\\\1F195';"
-    prefix: "emoji:squared-new"
+    prefix: "ji:squared-new"
   "🆖":
     body: "content: '\\\\1F196';"
-    prefix: "emoji:squared-ng"
+    prefix: "ji:squared-ng"
   "🅾":
     body: "content: '\\\\1F17E';"
-    prefix: "emoji:negative-squared-latin-capital-letter-o"
+    prefix: "ji:negative-squared-latin-capital-letter-o"
   "🆗":
     body: "content: '\\\\1F197';"
-    prefix: "emoji:squared-ok"
+    prefix: "ji:squared-ok"
   "🅿":
     body: "content: '\\\\1F17F';"
-    prefix: "emoji:negative-squared-latin-capital-letter-p"
+    prefix: "ji:negative-squared-latin-capital-letter-p"
   "🆘":
     body: "content: '\\\\1F198';"
-    prefix: "emoji:squared-sos"
+    prefix: "ji:squared-sos"
   "🆙":
     body: "content: '\\\\1F199';"
-    prefix: "emoji:squared-up-with-exclamation-mark"
+    prefix: "ji:squared-up-with-exclamation-mark"
   "🆚":
     body: "content: '\\\\1F19A';"
-    prefix: "emoji:squared-vs"
+    prefix: "ji:squared-vs"
   "🈁":
     body: "content: '\\\\1F201';"
-    prefix: "emoji:squared-katakana-koko"
+    prefix: "ji:squared-katakana-koko"
   "🈂":
     body: "content: '\\\\1F202';"
-    prefix: "emoji:squared-katakana-sa"
+    prefix: "ji:squared-katakana-sa"
   "🈷":
     body: "content: '\\\\1F237';"
-    prefix: "emoji:squared-cjk-unified-ideograph-6708"
+    prefix: "ji:squared-cjk-unified-ideograph-6708"
   "🈶":
     body: "content: '\\\\1F236';"
-    prefix: "emoji:squared-cjk-unified-ideograph-6709"
+    prefix: "ji:squared-cjk-unified-ideograph-6709"
   "🈯":
     body: "content: '\\\\1F22F';"
-    prefix: "emoji:squared-cjk-unified-ideograph-6307"
+    prefix: "ji:squared-cjk-unified-ideograph-6307"
   "🉐":
     body: "content: '\\\\1F250';"
-    prefix: "emoji:circled-ideograph-advantage"
+    prefix: "ji:circled-ideograph-advantage"
   "🈹":
     body: "content: '\\\\1F239';"
-    prefix: "emoji:squared-cjk-unified-ideograph-5272"
+    prefix: "ji:squared-cjk-unified-ideograph-5272"
   "🈚":
     body: "content: '\\\\1F21A';"
-    prefix: "emoji:squared-cjk-unified-ideograph-7121"
+    prefix: "ji:squared-cjk-unified-ideograph-7121"
   "🈲":
     body: "content: '\\\\1F232';"
-    prefix: "emoji:squared-cjk-unified-ideograph-7981"
+    prefix: "ji:squared-cjk-unified-ideograph-7981"
   "🉑":
     body: "content: '\\\\1F251';"
-    prefix: "emoji:circled-ideograph-accept"
+    prefix: "ji:circled-ideograph-accept"
   "🈸":
     body: "content: '\\\\1F238';"
-    prefix: "emoji:squared-cjk-unified-ideograph-7533"
+    prefix: "ji:squared-cjk-unified-ideograph-7533"
   "🈴":
     body: "content: '\\\\1F234';"
-    prefix: "emoji:squared-cjk-unified-ideograph-5408"
+    prefix: "ji:squared-cjk-unified-ideograph-5408"
   "🈳":
     body: "content: '\\\\1F233';"
-    prefix: "emoji:squared-cjk-unified-ideograph-7a7a"
+    prefix: "ji:squared-cjk-unified-ideograph-7a7a"
   "㊗":
     body: "content: '\\\\3297';"
-    prefix: "emoji:circled-ideograph-congratulation"
+    prefix: "ji:circled-ideograph-congratulation"
   "㊙":
     body: "content: '\\\\3299';"
-    prefix: "emoji:circled-ideograph-secret"
+    prefix: "ji:circled-ideograph-secret"
   "🈺":
     body: "content: '\\\\1F23A';"
-    prefix: "emoji:squared-cjk-unified-ideograph-55b6"
+    prefix: "ji:squared-cjk-unified-ideograph-55b6"
   "🈵":
     body: "content: '\\\\1F235';"
-    prefix: "emoji:squared-cjk-unified-ideograph-6e80"
+    prefix: "ji:squared-cjk-unified-ideograph-6e80"
   "▪":
     body: "content: '\\\\25AA';"
-    prefix: "emoji:black-small-square"
+    prefix: "ji:black-small-square"
   "▫":
     body: "content: '\\\\25AB';"
-    prefix: "emoji:white-small-square"
+    prefix: "ji:white-small-square"
   "◻":
     body: "content: '\\\\25FB';"
-    prefix: "emoji:white-medium-square"
+    prefix: "ji:white-medium-square"
   "◼":
     body: "content: '\\\\25FC';"
-    prefix: "emoji:black-medium-square"
+    prefix: "ji:black-medium-square"
   "◽":
     body: "content: '\\\\25FD';"
-    prefix: "emoji:white-medium-small-square"
+    prefix: "ji:white-medium-small-square"
   "◾":
     body: "content: '\\\\25FE';"
-    prefix: "emoji:black-medium-small-square"
+    prefix: "ji:black-medium-small-square"
   "⬛":
     body: "content: '\\\\2B1B';"
-    prefix: "emoji:black-large-square"
+    prefix: "ji:black-large-square"
   "⬜":
     body: "content: '\\\\2B1C';"
-    prefix: "emoji:white-large-square"
+    prefix: "ji:white-large-square"
   "🔶":
     body: "content: '\\\\1F536';"
-    prefix: "emoji:large-orange-diamond"
+    prefix: "ji:large-orange-diamond"
   "🔷":
     body: "content: '\\\\1F537';"
-    prefix: "emoji:large-blue-diamond"
+    prefix: "ji:large-blue-diamond"
   "🔸":
     body: "content: '\\\\1F538';"
-    prefix: "emoji:small-orange-diamond"
+    prefix: "ji:small-orange-diamond"
   "🔹":
     body: "content: '\\\\1F539';"
-    prefix: "emoji:small-blue-diamond"
+    prefix: "ji:small-blue-diamond"
   "🔺":
     body: "content: '\\\\1F53A';"
-    prefix: "emoji:up-pointing-red-triangle"
+    prefix: "ji:up-pointing-red-triangle"
   "🔻":
     body: "content: '\\\\1F53B';"
-    prefix: "emoji:down-pointing-red-triangle"
+    prefix: "ji:down-pointing-red-triangle"
   "💠":
     body: "content: '\\\\1F4A0';"
-    prefix: "emoji:diamond-shape-with-a-dot-inside"
+    prefix: "ji:diamond-shape-with-a-dot-inside"
   "🔘":
     body: "content: '\\\\1F518';"
-    prefix: "emoji:radio-button"
+    prefix: "ji:radio-button"
   "🔲":
     body: "content: '\\\\1F532';"
-    prefix: "emoji:black-square-button"
+    prefix: "ji:black-square-button"
   "🔳":
     body: "content: '\\\\1F533';"
-    prefix: "emoji:white-square-button"
+    prefix: "ji:white-square-button"
   "⚪":
     body: "content: '\\\\26AA';"
-    prefix: "emoji:medium-white-circle"
+    prefix: "ji:medium-white-circle"
   "⚫":
     body: "content: '\\\\26AB';"
-    prefix: "emoji:medium-black-circle"
+    prefix: "ji:medium-black-circle"
   "🔴":
     body: "content: '\\\\1F534';"
-    prefix: "emoji:large-red-circle"
+    prefix: "ji:large-red-circle"
   "🔵":
     body: "content: '\\\\1F535';"
-    prefix: "emoji:large-blue-circle"
+    prefix: "ji:large-blue-circle"
   "🏁":
     body: "content: '\\\\1F3C1';"
-    prefix: "emoji:chequered-flag"
+    prefix: "ji:chequered-flag"
   "🚩":
     body: "content: '\\\\1F6A9';"
-    prefix: "emoji:triangular-flag-on-post"
+    prefix: "ji:triangular-flag-on-post"
   "🎌":
     body: "content: '\\\\1F38C';"
-    prefix: "emoji:crossed-flags"
+    prefix: "ji:crossed-flags"
   "🏴":
     body: "content: '\\\\1F3F4';"
-    prefix: "emoji:waving-black-flag"
+    prefix: "ji:waving-black-flag"
   "🏳":
     body: "content: '\\\\1F3F3';"
-    prefix: "emoji:waving-white-flag"
+    prefix: "ji:waving-white-flag"
