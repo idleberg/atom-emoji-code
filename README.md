@@ -12,6 +12,8 @@ Atom snippets to insert escaped Emoji code into HTML and CSS.
 
 ![Screenshot](https://raw.github.com/idleberg/atom-emoji-code/master/screenshot.png)
 
+*Screenshot of completions in Atom with [one-light-ui](https://github.com/atom/one-light-ui)*
+
 **Examples:**
 
 Let's insert the 😄 emoji into your code
