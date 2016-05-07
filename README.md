@@ -6,8 +6,6 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-emoji-code)
 [![David](https://img.shields.io/david/dev/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code#info=devDependencies)
 
-*Work in progress*
-
 Atom snippets to insert escaped Emoji code into HTML and CSS.
 
 ![Screenshot](https://raw.github.com/idleberg/atom-emoji-code/master/screenshot.gif)
@@ -37,6 +35,12 @@ Keep in mind that Atom supports fuzzy completion, inviting you to use abbreviati
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-emoji-code emoji-code`
+## License
+
+## Cheatsheet
+
+Full list of [all supported emoji codes](cheatsheet.md).
+
 ## License
 
 This work is licensed under the [The MIT License](LICENSE.md).
