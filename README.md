@@ -40,7 +40,7 @@ Keep in mind that Atom supports fuzzy completion, inviting you to use abbreviati
 
 ## Cheatsheet
 
-Full list of [all supported emoji codes](cheatsheet.md).
+ Take note of this list of [all supported emoji codes](cheatsheet.md).
 
 ## License
 
