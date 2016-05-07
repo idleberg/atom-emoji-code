@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-emoji-code)
 [![David](https://img.shields.io/david/dev/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code#info=devDependencies)
 
-Atom snippets to insert escaped Emoji code into HTML and CSS.
+Atom snippets to insert escaped Emoji code into HTML, CSS, JavaScript and Ruby.
 
 ![Screenshot](https://raw.github.com/idleberg/atom-emoji-code/master/screenshot.gif)
 
@@ -22,6 +22,7 @@ Let's say, you want to insert the 😄 emoji
 
 * HTML: `ji:grinning-face` becomes `&#x1F600;`
 * CSS: `ji:grinning-face` becomes `content: '\1F600';`
+* JavaScript: `ji:grinning-face` becomes `u\1F600`
 
 Keep in mind that Atom supports fuzzy completion, inviting you to use abbreviation of your preference.
 
