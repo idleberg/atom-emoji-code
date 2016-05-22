@@ -12,6 +12,30 @@ Atom snippets to insert escaped Emoji code into HTML, CSS, JavaScript and Ruby.
 
 *Screenshot of completions in Atom with [one-light-ui](https://github.com/atom/one-light-ui)*
 
+## Installation
+
+### apm
+
+Install `emoji-code` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
+
+`$ apm install emoji-code`
+
+### GitHub
+
+Change to your Atom packages directory:
+
+```bash
+# Windows
+$ cd %USERPROFILE%\.atom\packages
+
+# Mac OS X & Linux
+$ cd ~/.atom/packages/
+```
+
+Clone repository as `emoji-code`:
+
+`$ git clone https://github.com/idleberg/atom-emoji-code emoji-code`
+
 ## Usage
 
 All emojis are prefixed with `ji`, following the string of the official [Unicode terminology](unicode.org/emoji/charts/full-emoji-list.html).
@@ -25,18 +49,6 @@ Let's say, you want to insert the 😄 emoji
 * JavaScript: `ji:grinning-face` becomes `u\1F600`
 
 Keep in mind that Atom supports fuzzy completion, inviting you to use abbreviation of your preference.
-
-## Installation
-
-### apm
-
-* Install package `apm install emoji-code` (or use the GUI)
-
-### GitHub
-
-1. Change directory `cd ~/.atom/packages/`
-2. Clone repository `git clone https://github.com/idleberg/atom-emoji-code emoji-code`
-## License
 
 ## Cheatsheet
 
