@@ -1,4 +1,4 @@
-".text.html":
+".text.html.basic":
   "😀":
     body: "&#x1F600;"
     prefix: "ji:grinning-face"
