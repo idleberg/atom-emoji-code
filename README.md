@@ -28,13 +28,15 @@ Change to your Atom packages directory:
 # Windows
 $ cd %USERPROFILE%\.atom\packages
 
-# Mac OS X & Linux
+# Linux & macOS
 $ cd ~/.atom/packages/
 ```
 
 Clone repository as `emoji-code`:
 
-`$ git clone https://github.com/idleberg/atom-emoji-code emoji-code`
+```bash
+$ git clone https://github.com/idleberg/atom-emoji-code emoji-code
+```
 
 ## Usage
 
