@@ -1,13 +1,13 @@
 // Dependencies
-const coffeelint = require('gulp-coffeelint');
-const debug = require('gulp-debug');
-const gulp = require('gulp');
-const jshint = require('gulp-jshint');
-const jsonlint = require('gulp-jsonlint');
-const lesshint = require('gulp-lesshint');
+var coffeelint = require('gulp-coffeelint');
+var debug = require('gulp-debug');
+var gulp = require('gulp');
+var jshint = require('gulp-jshint');
+var jsonlint = require('gulp-jsonlint');
+var lesshint = require('gulp-lesshint');
 
 // Files
-const coffeeFiles = [
+var coffeeFiles = [
     './grammars/*.cson',
     './keymaps/*.cson',
     './lib/**/*.coffee',
@@ -15,11 +15,12 @@ const coffeeFiles = [
     './snippets/*.cson'
 ];
 
-const jsFiles = [
-    './lib/**/*.js'
+var jsFiles = [
+    './lib/**/*.js',
+    './src/**/*.js'
 ];
 
-const jsonFiles = [
+var jsonFiles = [
     './grammars/*.json',
     './keymaps/*.json',
     './menus/*.json',
@@ -27,7 +28,7 @@ const jsonFiles = [
     './package.json'
 ];
 
-const lessFiles = [
+var lessFiles = [
     './styles/**/*.less'
 ];
 
@@ -52,7 +53,7 @@ gulp.task('lint:less', function () {
 });
 
 // Lint JavaScript files
-gulp.task('lint:js', () => {
+gulp.task('lint:js', function () {
   return gulp.src(jsFiles)
     .pipe(debug({title: 'jshint:'}))
     .pipe(jshint())
