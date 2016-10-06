@@ -16,8 +16,7 @@ const coffeeFiles = [
 ];
 
 const jsFiles = [
-    './lib/**/*.js',
-    './src/**/*.js'
+    './lib/**/*.js'
 ];
 
 const jsonFiles = [
