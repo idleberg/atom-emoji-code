@@ -4,6 +4,7 @@
 [![apm](https://img.shields.io/apm/v/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
 [![apm](https://img.shields.io/apm/dm/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
 [![Travis](https://img.shields.io/travis/idleberg/atom-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-emoji-code)
+[![David](https://img.shields.io/david/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code)
 [![David](https://img.shields.io/david/dev/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code?type=dev)
 
 Atom snippets to insert escaped Emoji code into HTML, CSS, JavaScript and Ruby.
