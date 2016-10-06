@@ -18,7 +18,7 @@ fs.exists(outputDir, function (exists) {
     fs.mkdirSync(outputDir);
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
-  writeSnippets("html", ".text.html", "&#x", "");
+  writeSnippets("html", ".text.html", "&#x", ";");
   writeSnippets("javascript", ".source.js", "\\\\u", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}", "");
 });
