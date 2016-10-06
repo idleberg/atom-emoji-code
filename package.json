@@ -30,6 +30,11 @@
     "jshint": "^2.9.3"
   },
   "scripts": {
-    "test": "gulp lint"
+    "test": "gulp lint",
+    "postinstall": "node ./src/build.js"
+  },
+  "dependencies": {
+    "cson": "^3.0.2",
+    "emoji-data-2016": "^0.2.4"
   }
 }
