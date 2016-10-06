@@ -49,7 +49,7 @@ function writeSnippets(type, scope, prefix = "", suffix = "") {
     json[scope] = snippets;
 
     // Object to CSON
-    output = CSON.stringify(json, null, 4);
+    output = CSON.stringify(json, null, 2);
 
     // Save file
     fs.writeFile(`${outputDir}/emoji-${type}.cson`, output, (err) => {
