@@ -20,13 +20,13 @@ fs.exists(outputDir, (exists) => {
     fs.mkdirSync(outputDir);
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
-  writeSnippets("html", ".text.html", "&#x");
-  writeSnippets("javascript", ".source.js", "\\\\u");
+  writeSnippets("html", ".text.html", "&#x", "");
+  writeSnippets("javascript", ".source.js", "\\\\u", "", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
 });
 
 // Functions
-function writeSnippets(type, scope, prefix = "", suffix = "") {
+function writeSnippets(type, scope, prefix, suffix) {
     for (let i = 0; i < emojiAll.length; i++) {
         let name, unicode;
 
