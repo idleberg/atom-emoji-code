@@ -20,7 +20,8 @@ fs.exists(outputDir, function (exists) {
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html", "&#x", ";");
   writeSnippets("javascript", ".source.js", "\\\\u", "");
-  writeSnippets("ruby", ".source.ruby", "\\\\u{", "}", "");
+  writeSnippets("python", ".source.python", "u'\\\\U", "'");
+  writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
 });
 
 // Functions
@@ -36,6 +37,10 @@ function writeSnippets(type, scope, prefix, suffix) {
 
         unicode = emojiAll[i].unified.replace(/-/g, prefix);
         emoji = emojiAll[i].render();
+
+        if (type === "python") {
+          unicode = String("0000" + unicode).slice(-8);
+        }
 
         snippets[emoji] = {
             "body": prefix + unicode + suffix,
