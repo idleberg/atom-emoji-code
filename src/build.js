@@ -1,4 +1,4 @@
-'use babel'
+'use babel';
 
 // Dependencies
 const EmojiData = require('emoji-data-2016');
@@ -7,17 +7,17 @@ const fs = require('fs');
 
 // Variables & Constants
 const meta = require('../package.json');
-const outputDir = "snippets"
-const emojiAll = EmojiData.all()
+const outputDir = "snippets";
+const emojiAll = EmojiData.all();
 var snippets = {};
 
 // Main
-console.log(`${meta.name} v${meta.version}\nThe MIT License\n`)
+console.log(`${meta.name} v${meta.version}\nThe MIT License\n`);
 
 fs.exists(outputDir, (exists) => {
   if (!exists) {
-    console.log(`\u1F4AB ./${outputDir}`)
-    fs.mkdirSync(outputDir)
+    console.log(`\u1F4AB ./${outputDir}`);
+    fs.mkdirSync(outputDir);
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html", "&#x");
@@ -30,7 +30,7 @@ function writeSnippets(type, scope, prefix = "", suffix = "") {
     for (let i = 0; i < emojiAll.length; i++) {
         let name, unicode;
 
-        if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name != null ) {
+        if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
             name = emojiAll[i].name.toLowerCase().replace(/\s/g, "-");
         } else {
             name = emojiAll[i].short_name;
@@ -45,7 +45,7 @@ function writeSnippets(type, scope, prefix = "", suffix = "") {
         };
     }
 
-    let json = { }
+    let json = {};
     json[scope] = snippets;
 
     // Object to CSON
@@ -54,6 +54,6 @@ function writeSnippets(type, scope, prefix = "", suffix = "") {
     // Save file
     fs.writeFile(`${outputDir}/emoji-${type}.cson`, output, (err) => {
       if (err) throw err;
-      console.log(`\u2705 emoji-${type}.cson`)
+      console.log(`\u2705 emoji-${type}.cson`);
     });
 }
