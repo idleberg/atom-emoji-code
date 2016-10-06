@@ -1,6 +1,6 @@
 {
   "name": "emoji-code",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Atom snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby",
   "author": {
     "name": "Jan T. Sott",
