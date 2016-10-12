@@ -41,10 +41,9 @@ Clone repository as `emoji-code`:
 $ git clone https://github.com/idleberg/atom-emoji-code emoji-code
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd emoji-code
 $ yarn || npm install
 ```
 
