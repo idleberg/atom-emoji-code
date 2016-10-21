@@ -1,6 +1,6 @@
 {
   "name": "emoji-code",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby",
   "author": {
     "name": "Jan T. Sott",
@@ -39,5 +39,5 @@
   "scripts": {
     "test": "gulp lint",
     "postinstall": "node ./src/build.js"
-  }  
+  }
 }
