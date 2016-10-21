@@ -23,7 +23,7 @@ Install `emoji-code` from Atom's [Package Manager](http://flight-manual.atom.io/
 
 `$ apm install emoji-code`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
