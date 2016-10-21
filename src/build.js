@@ -39,7 +39,7 @@ function writeSnippets(type, scope, prefix, suffix) {
         emoji = emojiAll[i].render();
 
         if (type === "python") {
-          unicode = String("0000" + unicode).slice(-8);
+          unicode = String("00000000" + unicode).slice(-8);
         }
 
         snippets[emoji] = {
@@ -57,6 +57,6 @@ function writeSnippets(type, scope, prefix, suffix) {
     // Save file
     fs.writeFile(outputDir + "/emoji-" + type + ".cson", output, function (err) {
       if (err) throw err;
-      console.log("\u2705 emoji-" + type + ".cson");
+      console.log("\u2705  emoji-" + type + ".cson");
     });
 }
