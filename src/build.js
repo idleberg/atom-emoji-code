@@ -19,7 +19,7 @@ fs.exists(outputDir, function (exists) {
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html", "&#x", ";");
-  writeSnippets("javascript", ".source.js", "\\\\u", "");
+  writeSnippets("javascript", ".source.coffee, .source.js, .source.livescript, .source.ts", "\\\\u", "");
   writeSnippets("python", ".source.python", "u'\\\\U", "'");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
 });
