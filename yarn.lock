@@ -30,6 +30,12 @@ ansi-styles@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-2.2.1.tgz#b432dd3358b634cf75e1e4664368240533c1ddbe"
 
+ansi-styles@^3.1.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-3.2.0.tgz#c159b8d5be0f9e5a6f346dab94f16ce022161b88"
+  dependencies:
+    color-convert "^1.9.0"
+
 ansi-styles@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-1.0.0.tgz#cb102df1c56f5123eab8b67cd7b98027a0279178"
@@ -244,6 +250,14 @@ chalk@^1.0.0, chalk@^1.1.0, chalk@^1.1.1, chalk@^1.1.3:
     strip-ansi "^3.0.0"
     supports-color "^2.0.0"
 
+chalk@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.1.0.tgz#ac5becf14fa21b99c6c92ca7a7d7cfd5b17e743e"
+  dependencies:
+    ansi-styles "^3.1.0"
+    escape-string-regexp "^1.0.5"
+    supports-color "^4.0.0"
+
 chalk@~0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-0.4.0.tgz#5199a3ddcd0c1efe23bc08c1b027b06176e0c64f"
@@ -319,6 +333,16 @@ coffeelint@^1.4.0:
     optimist "^0.6.1"
     resolve "^0.6.3"
     strip-json-comments "^1.0.2"
+
+color-convert@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.0.tgz#1accf97dd739b983bf994d56fec8f95853641b7a"
+  dependencies:
+    color-name "^1.1.1"
+
+color-name@^1.1.1:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.3.tgz#a7d0558bd89c42f795dd42328f740831ca53bc25"
 
 combined-stream@^1.0.5, combined-stream@~1.0.5:
   version "1.0.5"
@@ -501,11 +525,9 @@ editions@^1.1.1, editions@^1.3.3:
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/editions/-/editions-1.3.3.tgz#0907101bdda20fac3cbe334c27cbd0688dc99a5b"
 
-emoji-data-2016@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/emoji-data-2016/-/emoji-data-2016-0.2.4.tgz#9568a13619256dcef7c91c2c12b4bd3290901510"
-  dependencies:
-    underscore.string "^2.3.3"
+emojibase-data@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/emojibase-data/-/emojibase-data-2.1.0.tgz#ba4593f9a47ea3307d8785df6fce4d4e513ec8c7"
 
 end-of-stream@1.0.0:
   version "1.0.0"
@@ -564,11 +586,11 @@ es6-weak-map@^2.0.1:
     es6-iterator "2"
     es6-symbol "3"
 
-escape-string-regexp@^1.0.2:
+escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-exit@0.1.2, exit@0.1.x, exit@^0.1.2:
+exit@0.1.2, exit@0.1.x:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/exit/-/exit-0.1.2.tgz#0632638f8d877cc82107d30a0fff1a17cba1cd0c"
 
@@ -909,9 +931,9 @@ gulp-coffeelint@^0.6.0:
     gulp-util "^3.0.0"
     through2 "^2.0.0"
 
-gulp-debug@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/gulp-debug/-/gulp-debug-3.0.0.tgz#8388308e00753b9122b0f88e4ffaf2a3e1c4d0d5"
+gulp-debug@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/gulp-debug/-/gulp-debug-3.1.0.tgz#4da91568b54915be803696caaac10c895b2c0a71"
   dependencies:
     chalk "^1.0.0"
     gulp-util "^3.0.0"
@@ -939,12 +961,12 @@ gulp-jsonlint@^1.2.0:
     map-stream "^0.1.0"
     through2 "2.0.3"
 
-gulp-lesshint@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/gulp-lesshint/-/gulp-lesshint-2.1.0.tgz#175f983a6fd4fb999863620a5526a1c60444f14a"
+gulp-lesshint@^3.0.0:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/gulp-lesshint/-/gulp-lesshint-3.0.2.tgz#8b4968f606c2772f06dced61d948d5f4d4444840"
   dependencies:
-    lesshint "^2.0.0"
-    lesshint-reporter-stylish "^1.0.0"
+    lesshint "^3.3.1"
+    lesshint-reporter-stylish "^2.0.0"
     plugin-error "^0.1.2"
     through2 "^2.0.0"
 
@@ -1041,6 +1063,10 @@ has-color@~0.1.0:
 has-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-1.0.0.tgz#9d9e793165ce017a00f00418c43f942a7b1d11fa"
+
+has-flag@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-2.0.0.tgz#e8207af1cc7b30d446cc70b734b5e8be18f88d51"
 
 has-gulplog@^0.1.0:
   version "0.1.0"
@@ -1321,9 +1347,9 @@ jshint-stylish@^2.2.1:
     string-length "^1.0.0"
     text-table "^0.2.0"
 
-jshint@^2.9.4:
-  version "2.9.4"
-  resolved "https://registry.yarnpkg.com/jshint/-/jshint-2.9.4.tgz#5e3ba97848d5290273db514aee47fe24cf592934"
+jshint@^2.9.5:
+  version "2.9.5"
+  resolved "https://registry.yarnpkg.com/jshint/-/jshint-2.9.5.tgz#1e7252915ce681b40827ee14248c46d34e9aa62c"
   dependencies:
     cli "~1.0.0"
     console-browserify "1.1.x"
@@ -1400,29 +1426,26 @@ lcid@^1.0.0:
   dependencies:
     invert-kv "^1.0.0"
 
-lesshint-reporter-stylish@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/lesshint-reporter-stylish/-/lesshint-reporter-stylish-1.0.0.tgz#b66d9730048957e756887bf79bf48bf82ca98987"
+lesshint-reporter-stylish@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/lesshint-reporter-stylish/-/lesshint-reporter-stylish-2.0.1.tgz#053466909448c9057fcd797323d375dfde4c8942"
   dependencies:
-    chalk "^1.1.3"
+    chalk "^2.0.0"
 
-lesshint@^2.0.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/lesshint/-/lesshint-2.4.0.tgz#53878cdba2c2b131ab22a6c14350d17cb5ab7f19"
+lesshint@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/lesshint/-/lesshint-3.3.1.tgz#74e1d2eb486f3283b064f2205b043e53c2a24e55"
   dependencies:
     commander "^2.8.0"
-    exit "^0.1.2"
     lodash.merge "^4.0.1"
     lodash.sortby "^4.0.1"
     minimatch "^3.0.2"
     postcss "^5.0.19"
-    postcss-less "^0.14.0"
+    postcss-less "^0.16.0"
     postcss-selector-parser "^2.0.0"
-    postcss-values-parser "^0.1.7"
+    postcss-values-parser "^1.2.1"
     rcfinder "^0.1.8"
     strip-json-comments "^2.0.0"
-    vow "^0.4.9"
-    vow-fs "^0.3.4"
 
 liftoff@^2.1.0:
   version "2.3.0"
@@ -1959,11 +1982,11 @@ plur@^2.0.0, plur@^2.1.0:
   dependencies:
     irregular-plurals "^1.0.0"
 
-postcss-less@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/postcss-less/-/postcss-less-0.14.0.tgz#c631b089c6cce422b9a10f3a958d2bedd3819324"
+postcss-less@^0.16.0:
+  version "0.16.1"
+  resolved "https://registry.yarnpkg.com/postcss-less/-/postcss-less-0.16.1.tgz#df179ed24365a60f6658e139816dbac78aee5043"
   dependencies:
-    postcss "^5.0.21"
+    postcss "^5.2.16"
 
 postcss-selector-parser@^2.0.0:
   version "2.2.2"
@@ -1973,15 +1996,15 @@ postcss-selector-parser@^2.0.0:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss-values-parser@^0.1.7:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/postcss-values-parser/-/postcss-values-parser-0.1.8.tgz#6dfb2c606b72b9196f87f32a717c23e31d01350c"
+postcss-values-parser@^1.2.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/postcss-values-parser/-/postcss-values-parser-1.3.1.tgz#2a6ceb39cecbbacd1d060f3b16f4c52dd6720c96"
   dependencies:
     flatten "^1.0.2"
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss@^5.0.19, postcss@^5.0.21:
+postcss@^5.0.19:
   version "5.2.10"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-5.2.10.tgz#b58b64e04f66f838b7bc7cb41f7dac168568a945"
   dependencies:
@@ -1989,6 +2012,15 @@ postcss@^5.0.19, postcss@^5.0.21:
     js-base64 "^2.1.9"
     source-map "^0.5.6"
     supports-color "^3.1.2"
+
+postcss@^5.2.16:
+  version "5.2.18"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-5.2.18.tgz#badfa1497d46244f6390f58b319830d9107853c5"
+  dependencies:
+    chalk "^1.1.3"
+    js-base64 "^2.1.9"
+    source-map "^0.5.6"
+    supports-color "^3.2.3"
 
 preserve@^0.2.0:
   version "0.2.0"
@@ -2369,11 +2401,17 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-supports-color@^3.1.2:
+supports-color@^3.1.2, supports-color@^3.2.3:
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-3.2.3.tgz#65ac0504b3954171d8a64946b2ae3cbb8a5f54f6"
   dependencies:
     has-flag "^1.0.0"
+
+supports-color@^4.0.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.4.0.tgz#883f7ddabc165142b2a61427f3352ded195d1a3e"
+  dependencies:
+    has-flag "^2.0.0"
 
 tar-pack@~3.3.0:
   version "3.3.0"
@@ -2469,10 +2507,6 @@ unc-path-regex@^0.1.0:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/unc-path-regex/-/unc-path-regex-0.1.2.tgz#e73dd3d7b0d7c5ed86fbac6b0ae7d8c6a69d50fa"
 
-underscore.string@^2.3.3:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/underscore.string/-/underscore.string-2.4.0.tgz#8cdd8fbac4e2d2ea1e7e2e8097c42f442280f85b"
-
 underscore@~1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.6.0.tgz#8b38b10cacdef63337b8b24e4ff86d45aea529a8"
@@ -2512,10 +2546,6 @@ user-home@^1.1.1:
 util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
-
-uuid@^2.0.2:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-2.0.3.tgz#67e2e863797215530dff318e5bf9dcebfd47b21a"
 
 uuid@^3.0.0:
   version "3.0.1"
@@ -2581,25 +2611,6 @@ vinyl@^1.0.0:
     clone "^1.0.0"
     clone-stats "^0.0.1"
     replace-ext "0.0.1"
-
-vow-fs@^0.3.4:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/vow-fs/-/vow-fs-0.3.6.tgz#2d4c59be22e2bf2618ddf597ab4baa923be7200d"
-  dependencies:
-    glob "^7.0.5"
-    uuid "^2.0.2"
-    vow "^0.4.7"
-    vow-queue "^0.4.1"
-
-vow-queue@^0.4.1:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/vow-queue/-/vow-queue-0.4.2.tgz#e7fe17160e15c7c4184d1b666a9bc64e18e30184"
-  dependencies:
-    vow "~0.4.0"
-
-vow@^0.4.7, vow@^0.4.9, vow@~0.4.0:
-  version "0.4.13"
-  resolved "https://registry.yarnpkg.com/vow/-/vow-0.4.13.tgz#e7c14f1bd9c8be0e7359a4597fe2d1ef6d1a7e88"
 
 which@^1.2.12:
   version "1.2.12"
