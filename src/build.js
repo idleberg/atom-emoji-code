@@ -1,62 +1,82 @@
 // Dependencies
-var EmojiData = require('emoji-data-2016');
-var CSON = require('cson');
-var fs = require('fs');
+const emojiAll = require('emojibase-data/en/data.json');
+const { exists, mkdirSync, writeFile } = require('fs');
+const CSON = require('cson');
 
-// Variables & Constants
-var meta = require('../package.json');
-var outputDir = "snippets";
-var emojiAll = EmojiData.all();
-var snippets = {};
+// letiables & Constants
+let meta = require('../package.json');
+let outputDir = "snippets";
+let snippets = {};
 
 // Main
-console.log(meta.name + " v" + meta.version + "\nThe MIT License\n");
+console.log(`\n${meta.name} v${meta.version}\n`);
 
-fs.exists(outputDir, function (exists) {
+exists(outputDir, function (exists) {
   if (!exists) {
     console.log("\u1F4AB ./" + outputDir);
-    fs.mkdirSync(outputDir);
+    mkdirSync(outputDir);
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html", "&#x", ";");
-  writeSnippets("javascript", ".source.coffee, .source.js, .source.livescript, .source.ts", "\\\\u", "");
-  writeSnippets("python", ".source.python", "u'\\\\U", "'");
+  writeSnippets("javascript", ".source.coffee, .source.js, .source.livescript, .source.ts", "0x", ", ");
+  writeSnippets("python", ".source.python", "\\\\U", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
 });
 
 // Functions
 function writeSnippets(type, scope, prefix, suffix) {
-    for (var i = 0; i < emojiAll.length; i++) {
-        var emoji, name, unicode;
+    for (let i = 0; i < emojiAll.length; i++) {
+        let emoji, name, unicode;
 
         if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
-            name = emojiAll[i].name.toLowerCase().replace(/\s/g, "-");
+            name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, "-");
         } else {
             name = emojiAll[i].short_name;
         }
 
-        unicode = emojiAll[i].unified.replace(/-/g, prefix);
-        emoji = emojiAll[i].render();
+        unicodes = emojiAll[i].hexcode.split("-");
 
-        if (type === "python") {
-          unicode = String("00000000" + unicode).slice(-8);
+        unicodes.forEach(function(unicode, index) {
+          if (type === 'python') {
+            unicode = String("0000000" + unicode).slice(-8);
+          }
+          unicodes[index] = `${prefix}${unicode}${suffix}`;
+        });
+
+        unicode = unicodes.join('');
+        emoji = emojiAll[i].emoji;
+
+        switch (type) {
+          case 'css':
+            unicode = `content: '${unicode}';`;
+            break;
+          case 'javascript':
+            unicode = unicode.slice(0, -2);
+            break;
         }
 
         snippets[emoji] = {
-            "body": prefix + unicode + suffix,
-            "prefix": "ji:" + name
+            "body": `${unicode}`,
+            "prefix": `ji:${name}`
         };
     }
 
-    var json = {};
+    let json = {};
     json[scope] = snippets;
 
     // Object to CSON
-    var output = CSON.stringify(json, null, 2);
+    let output = CSON.stringify(json, null, 2);
 
     // Save file
-    fs.writeFile(outputDir + "/emoji-" + type + ".cson", output, function (err) {
-      if (err) throw err;
-      console.log("\u2705  emoji-" + type + ".cson");
+    writeFile(`${outputDir}/emoji-${type}.cson`, output, (err) => {
+      let status;
+
+      if (err) {
+        status = '\u274C';
+      } else {
+        status = '\u2705';
+      }
+
+      console.log(`${status}  emoji-${type}.cson`);
     });
 }
