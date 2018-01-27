@@ -22,7 +22,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "cson": "^4.0.0",
+    "cson": "^5.1.0",
     "emojibase-data": "^2.2.0"
   },
   "devDependencies": {
