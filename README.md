@@ -7,7 +7,7 @@
 [![David](https://img.shields.io/david/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code)
 [![David](https://img.shields.io/david/dev/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code?type=dev)
 
-Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, Python and Ruby.
+Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, JSON, Python and Ruby.
 
 This package is also available for [Sublime Text](https://github.com/idleberg/sublime-emoji-code) and [Visual Studio Code](https://github.com/idleberg/vscode-emoji-code).
 
