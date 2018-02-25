@@ -18,7 +18,7 @@ exists(outputDir, function (exists) {
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html", "&#x", ";");
-  writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "0x", ", ");
+  writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "\\u{", "}");
   writeSnippets("python", ".source.python", "\\\\U", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
 });
