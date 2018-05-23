@@ -2,9 +2,7 @@
 const coffeelint = require('gulp-coffeelint');
 const debug = require('gulp-debug');
 const gulp = require('gulp');
-const jshint = require('gulp-jshint');
 const jsonlint = require('gulp-jsonlint');
-const lesshint = require('gulp-lesshint');
 const stylish = require('coffeelint-stylish');
 
 // Files
@@ -16,20 +14,12 @@ const coffeeFiles = [
     './snippets/*.cson'
 ];
 
-const jsFiles = [
-    './lib/**/*.js'
-];
-
 const jsonFiles = [
     './grammars/*.json',
     './keymaps/*.json',
     './menus/*.json',
     './snippets/*.json',
     './package.json'
-];
-
-const lessFiles = [
-    './styles/**/*.less'
 ];
 
 // Lint CoffeeScript & CSON files
@@ -39,23 +29,6 @@ gulp.task('lint:coffee', (done) => {
         .pipe(coffeelint())
         .pipe(coffeelint.reporter(stylish))
         .pipe(coffeelint.reporter('fail'));
-    done();
-});
-
-// Lint LESS files
-gulp.task('lint:less', (done) => {
-    gulp.src(lessFiles)
-        .pipe(debug({title: 'lesshint:'}))
-        .pipe(lesshint())
-        .pipe(lesshint.reporter());
-    done();
-});
-
-// Lint JavaScript files
-gulp.task('lint:js', (done) => {
-    gulp.src(jsFiles)
-        .pipe(debug({title: 'jshint:'}))
-        .pipe(jshint());
     done();
 });
 
@@ -70,6 +43,6 @@ gulp.task('lint:json', (done) => {
 });
 
 // Tasks
-gulp.task('lint', gulp.parallel('lint:coffee', 'lint:js', 'lint:json', 'lint:less', (done) => {
+gulp.task('lint', gulp.parallel('lint:coffee', 'lint:json', done => {
   done();
 }));
