@@ -34,7 +34,8 @@
     "husky": "^0.14.3"
   },
   "scripts": {
-    "test": "gulp lint",
-    "postinstall": "node ./src/build.js"
+    "build": "node ./src/build.js",
+    "postinstall": "npm run build",
+    "test": "gulp lint"
   }
 }
