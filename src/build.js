@@ -18,13 +18,13 @@ exists(outputDir, function (exists) {
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html", "&#x", ";");
-  writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "\\u{", "}");
+  writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "\\\\u{", "}");
   writeSnippets("python", ".source.python", "\\\\U", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
 });
 
 // Functions
-function writeSnippets(type, scope, prefix, suffix) {
+function writeSnippets(type, scope, prefix = '', suffix = '') {
     for (let i = 0; i < emojiAll.length; i++) {
         let emoji, name, unicode;
 
@@ -49,9 +49,6 @@ function writeSnippets(type, scope, prefix, suffix) {
         switch (type) {
           case 'css':
             unicode = `content: '${unicode}';`;
-            break;
-          case 'javascript':
-            unicode = unicode.slice(0, -2);
             break;
         }
 
