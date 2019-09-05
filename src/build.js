@@ -17,7 +17,7 @@ exists(outputDir, function (exists) {
     mkdirSync(outputDir);
   }
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
-  writeSnippets("html", ".text.html", "&#x", ";");
+  writeSnippets("html", ".text.html .source.html.twig", "&#x", ";");
   writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "\\\\u{", "}");
   writeSnippets("python", ".source.python", "\\\\U", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
