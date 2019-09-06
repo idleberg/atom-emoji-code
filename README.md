@@ -1,11 +1,10 @@
 # emoji-code
 
-[![apm](https://img.shields.io/apm/l/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
-[![apm](https://img.shields.io/apm/v/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
-[![apm](https://img.shields.io/apm/dm/emoji-code.svg?style=flat-square)](https://atom.io/packages/emoji-code)
-[![Travis](https://img.shields.io/travis/idleberg/atom-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-emoji-code)
-[![David](https://img.shields.io/david/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code)
-[![David](https://img.shields.io/david/dev/idleberg/atom-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/atom-emoji-code?type=dev)
+[![apm](https://flat.badgen.net/apm/license/emoji-code)](https://atom.io/packages/emoji-code)
+[![apm](https://flat.badgen.net/apm/v/emoji-code)](https://atom.io/packages/emoji-code)
+[![apm](https://flat.badgen.net/apm/dl/emoji-code)](https://atom.io/packages/emoji-code)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-emoji-code)](https://circleci.com/gh/idleberg/atom-emoji-code)
+[![David](https://flat.badgen.net/david/dep/idleberg/atom-emoji-code)](https://david-dm.org/idleberg/atom-emoji-code)
 
 Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, JSON, Python and Ruby.
 
