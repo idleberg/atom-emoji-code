@@ -1,6 +1,6 @@
 {
   "name": "emoji-code",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, JSON, Python, Ruby and Twig",
   "author": {
     "name": "Jan T. Sott",
