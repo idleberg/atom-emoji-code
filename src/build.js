@@ -21,6 +21,7 @@ exists(outputDir, function (exists) {
   writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "\\\\u{", "}");
   writeSnippets("python", ".source.python", "\\\\U", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
+  writeSnippets("markdown", ".source.gfm", "&#x", ";");
 });
 
 // Functions
