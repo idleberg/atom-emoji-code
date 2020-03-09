@@ -18,6 +18,9 @@ Snippets to insert escaped Emoji code into a variety of languages, including:
 - Ruby
 - Twig
 - TypeScript
+- Github Flavored Markdown :wave:
+
+Note Github supports emojis out of the box (e.g. `:wave:`), so there is no need to paste Unicode characters.
 
 This package is also available for [Sublime Text](https://github.com/idleberg/sublime-emoji-code) and [Visual Studio Code](https://github.com/idleberg/vscode-emoji-code).
 
