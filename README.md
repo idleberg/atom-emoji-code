@@ -16,6 +16,7 @@ Snippets to insert escaped Emoji code into a variety of languages, including:
 - LiveScript
 - Python
 - Ruby
+- Svelte
 - Twig
 - TypeScript
 - Github Flavored Markdown :wave:
