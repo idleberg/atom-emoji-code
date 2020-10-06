@@ -1,7 +1,6 @@
 // Dependencies
 const emojiAll = require('emojibase-data/en/data.json');
-const { exists, mkdirSync, writeFile } = require('fs');
-const CSON = require('cson');
+const { constants, promises: fs } = require('fs');
 
 // Variables & Constants
 let meta = require('../package.json');
@@ -9,35 +8,33 @@ let outputDir = "snippets";
 let snippets = {};
 
 // Main
-console.log(`\n${meta.name} v${meta.version}\n`);
+(async() => {
+  console.log(`\n${meta.name} v${meta.version}\n`);
 
-exists(outputDir, function (exists) {
-  if (!exists) {
-    console.log("\u1F4AB ./" + outputDir);
-    mkdirSync(outputDir);
+  try {
+    await fs.access(outputDir, constants.D_OK);
+  } catch (e) {
+    await fs.mkdir(outputDir);
   }
+
   writeSnippets("css", ".source.css, .source.sass", "content: '\\\\", "';");
   writeSnippets("html", ".text.html, .source.html.twig, .source.svelte", "&#x", ";");
   writeSnippets("javascript", ".source.coffee, .source.js, .source.json, .source.livescript, .source.ts", "\\\\u{", "}");
   writeSnippets("python", ".source.python", "\\\\U", "");
   writeSnippets("ruby", ".source.ruby", "\\\\u{", "}");
   writeSnippets("markdown", ".source.gfm", "&#x", ";");
-});
+})();
 
 // Functions
-function writeSnippets(type, scope, prefix = '', suffix = '') {
+async function writeSnippets(type, scope, prefix = '', suffix = '') {
     for (let i = 0; i < emojiAll.length; i++) {
-        let emoji, name, unicode;
+        let unicode;
 
-        if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
-            name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, "-");
-        } else {
-            name = emojiAll[i].short_name;
-        }
+        const name = emojiAll[i].annotation.toLowerCase().replace(/[\s,\.]+/g, "-");
 
         unicodes = emojiAll[i].hexcode.split("-");
 
-        unicodes.forEach(function(unicode, index) {
+        unicodes.map(function(unicode, index) {
           if (type === 'python') {
             unicode = String("0000000" + unicode).slice(-8);
           }
@@ -45,7 +42,7 @@ function writeSnippets(type, scope, prefix = '', suffix = '') {
         });
 
         unicode = unicodes.join('');
-        emoji = emojiAll[i].emoji;
+        const emoji = emojiAll[i].emoji;
 
         switch (type) {
           case 'css':
@@ -62,19 +59,17 @@ function writeSnippets(type, scope, prefix = '', suffix = '') {
     let json = {};
     json[scope] = snippets;
 
-    // Object to CSON
-    let output = CSON.stringify(json, null, 2);
+    let output = JSON.stringify(json, null, 2);
 
     // Save file
-    writeFile(`${outputDir}/emoji-${type}.cson`, output, (err) => {
-      let status;
+    let status;
 
-      if (err) {
-        status = '\u274C';
-      } else {
-        status = '\u2705';
-      }
+    try {
+      await fs.writeFile(`${outputDir}/emoji-${type}.json`, output);
+      status = '\u2705';
+    } catch (error) {
+      status = '\u274C';
+    }
 
-      console.log(`${status}  emoji-${type}.cson`);
-    });
+    console.log(`${status}  emoji-${type}.json`);
 }
