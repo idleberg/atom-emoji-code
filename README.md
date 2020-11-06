@@ -67,7 +67,7 @@ All emojis are prefixed with `ji`, following the string of the official [Unicode
 
 **Examples:**
 
-Let's say, you want to insert the 😄 emoji
+Let's say, you want to insert the 😄  emoji
 
 * HTML: `ji:grinning-face` becomes `&#x1F600;`
 * CSS: `ji:grinning-face` becomes `content: '\1F600';`
